@@ -1,0 +1,9 @@
+Info.plist	4EB4E366711C671643D9042360C3BB7B
+Default-IPhone6-Landscape.png	2018-06-05T11:33:02.000Z
+Default-IPhone6Plus-Landscape.png	2018-06-05T11:33:02.000Z
+Default-Landscape@2x.png	2018-06-05T11:33:02.000Z
+Default-Landscape-1336@2x.png	2018-06-05T11:33:02.000Z
+Default-IPhoneX-Landscape.png	2018-06-05T11:33:02.000Z
+Default@2x.png	2018-06-05T11:33:02.000Z
+Default-568h@2x.png	2018-06-05T11:33:02.000Z
+ue4commandline.txt	C3A7F3D67EB2BAF70B6F0C365E933B5D
