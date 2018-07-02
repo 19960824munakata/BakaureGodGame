@@ -1,1 +1,1 @@
-../../../Bakaure/Bakaure.uproject  /Game/Bakaure/title/Level/Title -Messaging -SessionId=195F2F62684A1B14049CBB94A206CEE3 -SessionOwner="koutya" -SessionName="Launch On Device" -iterative
+../../../Bakaure/Bakaure.uproject  /Game/Bakaure/title/Level/Title -Messaging -SessionId=81EC9DC06643C11DA1888A855F3862BD -SessionOwner="koutya" -SessionName="Launch On Device" -iterative
