@@ -2,5 +2,18 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.19",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Bakaure",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AdvancedSteamSessions",
+			"Enabled": false
+		}
+	]
 }

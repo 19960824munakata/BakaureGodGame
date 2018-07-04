@@ -1,0 +1,3 @@
+/Volumes/miniDrive/UE4Projects/Bakaure/Source/Bakaure/Bakaure.Build.cs
+/Volumes/miniDrive/UE4Projects/Bakaure/Source/Bakaure.Target.cs
+/Volumes/miniDrive/UE4Projects/Bakaure/Source/BakaureEditor.Target.cs
