@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="mokume4_Mat"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'/Game/SMs/ima/kyoudai/mokume4.mokume4'
+      MaterialExpressionEditorX=-300
+      MaterialExpressionGuid=F2B2EFE04B501240BC5DAFBDD2EA4545
+      Material=Material'mokume4_Mat'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0')
+   bUsedWithStaticLighting=True
+   Expressions(0)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0'
+   StateId=A8DD101548ADFE6BBA35B0A2ECAA6DA5
+   ReferencedTextureGuids(0)=8ED258834BEF69E82486A1A19BEF1329
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_1'
+   LightingGuid=4FC04F334CD6E33371A46EA9F7AF20A2
+End Object

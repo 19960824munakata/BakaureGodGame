@@ -1,0 +1,1564 @@
+﻿Log file open, 07/28/18 19:09:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Bakaure
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-664520876) SRandInit(-664520876).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.565792
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.250s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DBYUSSIPC (192.168.1.14:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.28-10.09.47:702][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.28-10.09.47:702][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.28-10.09.47:734][  0]LogInit: Computer: DBYUSSIPC
+[2018.07.28-10.09.47:734][  0]LogInit: User: gityo
+[2018.07.28-10.09.47:734][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.28-10.09.47:734][  0]LogInit: High frequency timer resolution =3.328128 MHz
+[2018.07.28-10.09.47:734][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.28-10.09.47:734][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.28-10.09.47:734][  0]LogMemory: Process Physical Memory: 273.91 MB used, 273.91 MB peak
+[2018.07.28-10.09.47:734][  0]LogMemory: Process Virtual Memory: 269.86 MB used, 269.86 MB peak
+[2018.07.28-10.09.47:734][  0]LogMemory: Physical Memory: 6349.88 MB used,  9979.70 MB free, 16329.58 MB total
+[2018.07.28-10.09.47:734][  0]LogMemory: Virtual Memory: 4788.88 MB used,  9979.70 MB free, 134217728.00 MB total
+[2018.07.28-10.09.47:933][  0]LogInit: Using OS detected language (ja-JP).
+[2018.07.28-10.09.47:933][  0]LogInit: Using OS detected locale (ja-JP).
+[2018.07.28-10.09.47:949][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2018.07.28-10.09.48:351][  0]LogStreaming: Display: Took  0.418s to EndInitTextLocalization.
+[2018.07.28-10.09.48:352][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.28-10.09.48:433][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.28-10.09.48:433][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.28-10.09.49:393][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.28-10.09.49:450][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.07.28-10.09.49:450][  0]LogD3D11RHI:       6052/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.28-10.09.49:453][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.28-10.09.49:453][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.28-10.09.49:453][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.28-10.09.49:460][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.28-10.09.49:460][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.28-10.09.49:460][  0]LogWindows: EnumDisplayDevices:
+[2018.07.28-10.09.49:460][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.07.28-10.09.49:460][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.07.28-10.09.49:460][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.07.28-10.09.49:460][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.07.28-10.09.49:461][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.28-10.09.49:461][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.07.28-10.09.49:461][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.28-10.09.49:461][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.28-10.09.49:461][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.07.28-10.09.49:492][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.28-10.09.49:492][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.28-10.09.49:492][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.28-10.09.49:530][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.28-10.09.49:535][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (D:/MunakataToshizo/BakaureGodGame/Intermediate/Shaders/WorkingDirectory/9568/).
+[2018.07.28-10.09.49:536][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gityo/AppData/Local/Temp/UnrealShaderWorkingDir/41F275B74F747B5187D8FE9D56BC440E/'.
+[2018.07.28-10.09.49:988][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.28-10.09.50:002][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.28-10.09.50:017][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.28-10.09.50:031][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.28-10.09.50:046][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.28-10.09.50:061][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.28-10.09.50:076][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.28-10.09.50:090][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.28-10.09.50:098][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.28-10.09.50:111][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.28-10.09.50:125][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.28-10.09.50:139][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.28-10.09.50:152][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.28-10.09.50:165][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.28-10.09.50:179][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.28-10.09.50:206][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.28-10.09.50:206][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.28-10.09.50:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.28-10.09.50:223][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.28-10.09.50:269][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.28-10.09.50:281][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.28-10.09.50:294][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.28-10.09.50:308][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.28-10.09.50:322][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.28-10.09.50:336][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.28-10.09.50:336][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.28-10.09.50:618][  0]LogXGEController: Cleaning working directory: C:/Users/gityo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.28-10.09.50:618][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.28-10.09.50:619][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.28-10.09.50:619][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.28-10.09.51:592][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.28-10.09.51:825][  0]LogDerivedDataCache: Loaded boot cache 0.23s 74MB C:/Users/gityo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.28-10.09.51:825][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gityo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.28-10.09.51:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/MunakataToshizo/BakaureGodGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.28-10.09.51:825][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.28-10.09.51:825][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/MunakataToshizo/BakaureGodGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.28-10.09.51:825][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.28-10.09.51:846][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.28-10.09.51:859][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gityo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.28-10.09.51:859][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.28-10.09.51:859][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.28-10.09.51:871][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.28-10.09.51:876][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.28-10.09.51:883][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.28-10.09.51:883][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.28-10.09.53:428][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.07.28-10.09.53:827][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.28-10.09.54:074][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.28-10.09.54:077][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.28-10.09.54:077][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.28-10.09.54:077][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.28-10.09.54:077][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.28-10.09.54:077][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.28-10.09.54:137][  0]LogNetVersion: Bakaure , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2708331183)
+[2018.07.28-10.09.54:945][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.161461 seconds
+[2018.07.28-10.09.54:951][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.28-10.09.54:951][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.28-10.09.54:951][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.28-10.10.01:845][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.28-10.10.01:878][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.28-10.10.02:361][  0]SourceControl: ソースコントロールは無効です
+[2018.07.28-10.10.02:361][  0]SourceControl: ソースコントロールは無効です
+[2018.07.28-10.10.02:388][  0]SourceControl: ソースコントロールは無効です
+[2018.07.28-10.10.02:410][  0]SourceControl: ソースコントロールは無効です
+[2018.07.28-10.10.03:047][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.28-10.10.03:239][  0]LogOcInput: OculusInput pre-init called
+[2018.07.28-10.10.03:402][  0]LogEngine: Initializing Engine...
+[2018.07.28-10.10.03:406][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.28-10.10.03:409][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.28-10.10.03:409][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.28-10.10.03:707][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.28-10.10.03:733][  0]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-10.10.03:775][  0]LogInit: FAudioDevice initialized.
+[2018.07.28-10.10.03:852][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/gityo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.28-10.10.03:865][  0]LogInit: Texture streaming: Enabled
+[2018.07.28-10.10.03:885][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.28-10.10.03:885][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={75BF7BEB-418C-4BE0-94D0-708C649D34CD}
+[2018.07.28-10.10.03:906][  0]LogInit: Transaction tracking system initialized
+[2018.07.28-10.10.03:961][  0]BlueprintLog: New page: エディタの読み込み
+[2018.07.28-10.10.04:091][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2018.07.28-10.10.04:251][  0]LogConsoleResponse: Display: 
+[2018.07.28-10.10.04:512][  0]LogFileCache: Scanning file cache for directory 'D:/MunakataToshizo/BakaureGodGame/Content/' took 0.02s
+[2018.07.28-10.10.04:512][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.28-10.10.04:512][  0]LogCook: Display: Mobile HDR setting 0
+[2018.07.28-10.10.04:512][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.28-10.10.04:512][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.28-10.10.04:512][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.28-10.10.05:057][  0]SourceControl: ソースコントロールは無効です
+[2018.07.28-10.10.05:058][  0]Cmd: MAP LOAD FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/title/Level/Title.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.28-10.10.05:071][  0]LightingResults: New page: ライティングのビルド
+[2018.07.28-10.10.05:075][  0]MapCheck: New page: マップをチェック
+[2018.07.28-10.10.05:075][  0]LightingResults: New page: <何も選択されていません>
+[2018.07.28-10.10.05:118][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6e31b8a18, Size=4, Default__TitleGameMode_C Function /Game/Bakaure/title/BluePrint/gamemode/TitleGameMode.TitleGameMode_C:ExecuteUbergraph_TitleGameMode
+[2018.07.28-10.10.05:123][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c6e31b8a18, Size=4
+[2018.07.28-10.10.05:123][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6e31b8a18, Size=4, Default__TitleGameMode_C Function /Engine/Transient.REINST_TitleGameMode_C_1:ExecuteUbergraph_TitleGameMode
+[2018.07.28-10.10.05:130][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6e31b88f0, Size=4, Default__TitleGameMode_C Function /Game/Bakaure/title/BluePrint/gamemode/TitleGameMode.TitleGameMode_C:ExecuteUbergraph_TitleGameMode
+[2018.07.28-10.10.05:247][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6e31b93e0, Size=4, Default__SelectWidget_C Function /Game/Bakaure/title/BluePrint/widget/SelectWidget.SelectWidget_C:ExecuteUbergraph_SelectWidget
+[2018.07.28-10.10.05:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c6e31b93e0, Size=4
+[2018.07.28-10.10.05:257][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6e31b93e0, Size=4, Default__SelectWidget_C Function /Engine/Transient.REINST_SelectWidget_C_0:ExecuteUbergraph_SelectWidget
+[2018.07.28-10.10.05:260][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6e31b95f0, Size=4, Default__SelectWidget_C Function /Game/Bakaure/title/BluePrint/widget/SelectWidget.SelectWidget_C:ExecuteUbergraph_SelectWidget
+[2018.07.28-10.10.05:264][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6e2bfa410, Size=24, Default__TitleWidget_C Function /Game/Bakaure/title/BluePrint/widget/TitleWidget.TitleWidget_C:ExecuteUbergraph_TitleWidget
+[2018.07.28-10.10.05:268][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c6e2bfa410, Size=24
+[2018.07.28-10.10.05:268][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6e2bfa410, Size=24, Default__TitleWidget_C Function /Engine/Transient.REINST_TitleWidget_C_1:ExecuteUbergraph_TitleWidget
+[2018.07.28-10.10.05:270][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6e2bf9708, Size=24, Default__TitleWidget_C Function /Game/Bakaure/title/BluePrint/widget/TitleWidget.TitleWidget_C:ExecuteUbergraph_TitleWidget
+[2018.07.28-10.10.05:272][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6e2bfacf8, Size=24, Default__Title_C Function /Game/Bakaure/title/Level/Title.Title_C:ExecuteUbergraph_Title
+[2018.07.28-10.10.05:274][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c6e2bfacf8, Size=24
+[2018.07.28-10.10.05:274][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6e2bfacf8, Size=24, Default__Title_C Function /Engine/Transient.REINST_Title_C_5:ExecuteUbergraph_Title
+[2018.07.28-10.10.05:276][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6e2bf9318, Size=24, Default__Title_C Function /Game/Bakaure/title/Level/Title.Title_C:ExecuteUbergraph_Title
+[2018.07.28-10.10.05:320][  0]LogAIModule: Creating AISystem for world Title
+[2018.07.28-10.10.05:329][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.28-10.10.05:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c6e31b8a18, Size=4
+[2018.07.28-10.10.05:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c6e31b93e0, Size=4
+[2018.07.28-10.10.05:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c6e2bfa410, Size=24
+[2018.07.28-10.10.05:345][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c6e2bfacf8, Size=24
+[2018.07.28-10.10.05:347][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.28-10.10.05:410][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 64.126ミリ秒かかりました。
+[2018.07.28-10.10.05:411][  0]LogFileHelpers: Loading map 'Title' took 0.354
+[2018.07.28-10.10.05:606][  0]LogCollectionManager: Loaded 0 collections in 0.001684 seconds
+[2018.07.28-10.10.05:665][  0]LogFileCache: Scanning file cache for directory 'D:/MunakataToshizo/BakaureGodGame/Saved/Collections/' took 0.01s
+[2018.07.28-10.10.05:665][  0]LogFileCache: Scanning file cache for directory 'D:/MunakataToshizo/BakaureGodGame/Content/Developers/gityo/Collections/' took 0.01s
+[2018.07.28-10.10.05:665][  0]LogFileCache: Scanning file cache for directory 'D:/MunakataToshizo/BakaureGodGame/Content/Collections/' took 0.01s
+[2018.07.28-10.10.05:665][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.28-10.10.05:675][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2452 classes and 558 folders.
+[2018.07.28-10.10.05:686][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.28-10.10.05:958][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.28-10.10.05:966][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.28-10.10.06:032][  0]LogSlate: Took 0.005774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.28-10.10.06:041][  0]LogSlate: Took 0.007591 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2018.07.28-10.10.06:047][  0]LogSlate: Took 0.004839 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2018.07.28-10.10.06:049][  0]LogSlate: Took 0.002466 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.28-10.10.06:060][  0]LogSlate: Took 0.003950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.28-10.10.06:172][  0]LogRenderer: Reallocating scene render targets to support 1112x476 Format 10 NumSamples 1 (Frame:1).
+[2018.07.28-10.10.06:296][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.28-10.10.06:296][  0]LogLoad: (Engine Initialization) Total time: 22.34 seconds
+[2018.07.28-10.10.06:296][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.28-10.10.06:656][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.28-10.10.06:681][  0]LogSlate: Took 0.001667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.28-10.10.06:983][  1]LogAssetRegistry: Asset discovery search completed in 13.5776 seconds
+[2018.07.28-10.10.06:986][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.28-10.10.06:987][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000138 seconds (updated 0 objects)
+[2018.07.28-10.12.10:628][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.12.12:465][821]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6f3c97470, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.28-10.12.12:474][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c6f3c97470, Size=72
+[2018.07.28-10.12.12:474][821]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6ca8e5d50, Size=72, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.28-10.12.12:483][821]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6ca896520, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.28-10.12.12:585][821]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6c6ef7ec0, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.28-10.12.12:590][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c6c6ef7ec0, Size=296
+[2018.07.28-10.12.12:590][821]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6c6ef7ec0, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_10:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.28-10.12.12:596][821]LogUObjectGlobals: Created PersistentFrame Addr=0x000001c6c6ef6700, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.28-10.12.12:832][821]LogSkeletalMesh: Skeletal Mesh found in DDC [6.570060ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.07.28-10.12.13:040][821]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.28-10.12.13:089][821]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.28-10.12.13:096][821]LogSlate: Took 0.006360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2018.07.28-10.12.13:116][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c6ca8e5d50, Size=72
+[2018.07.28-10.12.13:116][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c6c6ef7ec0, Size=296
+[2018.07.28-10.12.13:119][821]Cmd: MAP LOAD FILE="D:/MunakataToshizo/BakaureGodGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.28-10.12.13:119][821]LightingResults: New page: ライティングのビルド
+[2018.07.28-10.12.13:119][821]LoadErrors: New page: マップをロード中: ThirdPersonExampleMap.umap
+[2018.07.28-10.12.13:120][821]MapCheck: New page: マップをチェック
+[2018.07.28-10.12.13:120][821]LightingResults: New page: <何も選択されていません>
+[2018.07.28-10.12.13:132][821]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001c6e2bf9318, Size=24
+[2018.07.28-10.12.13:141][821]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.28-10.12.13:161][821]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.28-10.12.13:240][821]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 78.81ミリ秒かかりました。
+[2018.07.28-10.12.13:241][821]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.123
+[2018.07.28-10.12.22:450][856]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.28-10.12.22:487][856]Cmd: MAP LOAD FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.28-10.12.22:487][856]LightingResults: New page: ライティングのビルド
+[2018.07.28-10.12.22:488][856]LoadErrors: New page: マップをロード中: Battle_map.umap
+[2018.07.28-10.12.22:488][856]MapCheck: New page: マップをチェック
+[2018.07.28-10.12.22:488][856]LightingResults: New page: <何も選択されていません>
+[2018.07.28-10.12.22:507][856]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.28-10.12.22:524][856]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.28-10.12.22:598][856]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 73.906ミリ秒かかりました。
+[2018.07.28-10.12.22:598][856]LogFileHelpers: Loading map 'Battle_map' took 0.112
+[2018.07.28-10.12.26:724][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2018.07.28-10.12.31:285][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.28-10.12.32:672][885]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.07.28-10.12.33:685][979]Cmd: DELETE
+[2018.07.28-10.12.33:685][979]Cmd: ACTOR DELETE
+[2018.07.28-10.12.33:692][979]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.07.28-10.12.33:704][979]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2018.07.28-10.12.34:778][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2018.07.28-10.12.35:338][158]Cmd: DELETE
+[2018.07.28-10.12.35:338][158]Cmd: ACTOR DELETE
+[2018.07.28-10.12.35:340][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.28-10.12.35:353][158]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.07.28-10.12.35:833][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2018.07.28-10.12.36:008][226]Cmd: DELETE
+[2018.07.28-10.12.36:009][226]Cmd: ACTOR DELETE
+[2018.07.28-10.12.36:012][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.28-10.12.36:023][226]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.07.28-10.12.36:694][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2018.07.28-10.12.36:881][301]Cmd: DELETE
+[2018.07.28-10.12.36:881][301]Cmd: ACTOR DELETE
+[2018.07.28-10.12.36:883][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.28-10.12.36:894][301]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.07.28-10.12.37:250][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2018.07.28-10.12.37:463][342]Cmd: DELETE
+[2018.07.28-10.12.37:463][342]Cmd: ACTOR DELETE
+[2018.07.28-10.12.37:464][342]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.28-10.12.37:475][342]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.07.28-10.12.37:779][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2018.07.28-10.12.38:426][404]Cmd: DELETE
+[2018.07.28-10.12.38:426][404]Cmd: ACTOR DELETE
+[2018.07.28-10.12.38:428][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.28-10.12.38:439][404]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.07.28-10.12.39:104][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.07.28-10.12.39:208][438]Cmd: DELETE
+[2018.07.28-10.12.39:208][438]Cmd: ACTOR DELETE
+[2018.07.28-10.12.39:210][438]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.28-10.12.39:221][438]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.07.28-10.12.43:264][853]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.07.28-10.12.49:428][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.28-10.12.50:915][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.13.02:336][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2018.07.28-10.13.03:952][918]Cmd: DELETE
+[2018.07.28-10.13.03:952][918]Cmd: ACTOR DELETE
+[2018.07.28-10.13.03:954][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.28-10.13.03:966][918]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.07.28-10.13.04:615][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2018.07.28-10.13.04:816][986]Cmd: DELETE
+[2018.07.28-10.13.04:816][986]Cmd: ACTOR DELETE
+[2018.07.28-10.13.04:818][986]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.28-10.13.04:829][986]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.07.28-10.13.05:355][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2018.07.28-10.13.05:508][ 53]Cmd: DELETE
+[2018.07.28-10.13.05:508][ 53]Cmd: ACTOR DELETE
+[2018.07.28-10.13.05:510][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.28-10.13.05:522][ 53]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.07.28-10.13.06:253][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2018.07.28-10.13.06:368][143]Cmd: DELETE
+[2018.07.28-10.13.06:368][143]Cmd: ACTOR DELETE
+[2018.07.28-10.13.06:369][143]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.28-10.13.06:381][143]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.07.28-10.13.07:175][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.13.07:292][247]MapCheck: New page: マップをチェック
+[2018.07.28-10.13.07:309][247]Cmd: MAP REBUILD ALLVISIBLE
+[2018.07.28-10.13.07:309][247]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.07.28-10.13.07:349][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.07.28-10.13.07:359][247]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-10.13.07:359][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.07.28-10.13.07:365][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HelpActorMaterial, compiling. 
+[2018.07.28-10.13.07:370][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.07.28-10.13.07:377][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.07.28-10.13.07:386][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.07.28-10.13.07:392][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.07.28-10.13.09:475][247]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-10.13.09:475][247]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-10.13.09:475][247]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-10.13.09:475][247]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-10.13.09:475][247]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-10.13.09:475][247]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-10.13.09:475][247]TextureStreamingBuild: Display: Compiling optional shaders took 2.133 seconds.
+[2018.07.28-10.13.09:506][247]LogLevel: Display: Export Material TexCoord Scales took 0.031 seconds.
+[2018.07.28-10.13.09:518][247]TextureStreamingBuild: Display: Build Texture Streaming took 0.011 seconds.
+[2018.07.28-10.13.09:538][247]LightingResults: New page: ライティングのビルド - 2018/07/29 4:13:09
+[2018.07.28-10.13.09:633][247]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.07.28-10.13.09:808][247]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.07.28-10.13.09:845][247]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.07.28-10.13.10:965][247]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.07.28-10.13.10:965][247]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9568
+[2018.07.28-10.13.13:527][247]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.07.28-10.13.13:527][247]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.07.28-10.13.13:527][247]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.07.28-10.13.13:527][247]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.07.28-10.13.13:527][247]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.07.28-10.13.13:721][247]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.07.28-10.13.13:721][247]MapCheck: New page: Battle_map - 2018/07/29 4:13:13
+[2018.07.28-10.13.13:721][247]MapCheck: Error: WorldInfo_0 マップはライティングの再ビルドが必要です 
+[2018.07.28-10.13.13:800][247]MapCheck: マップチェックが完了: 1 エラー、 0 警告、完了に 78.827ミリ秒かかりました。
+[2018.07.28-10.13.13:823][247]LogEditorBuildUtils: Build time 0:06
+[2018.07.28-10.13.13:852][247]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_2, compiling. 
+[2018.07.28-10.13.13:858][247]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_2, compiling. 
+[2018.07.28-10.13.13:888][247]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-10.13.13:963][248]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2018.07.28-10.13.13:969][248]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-10.13.13:969][248]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2018.07.28-10.13.13:980][248]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-10.13.14:518][249]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.07.28-10.13.14:523][249]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-10.13.14:523][249]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.07.28-10.13.14:537][249]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-10.13.19:419][481]LogSlate: Window 'メッセージ ログ' being destroyed
+[2018.07.28-10.13.19:423][481]LogSlate: Window 'メッセージ ログ' being destroyed
+[2018.07.28-10.13.20:963][555]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.07.28-10.13.21:403][584]Job is a success!
+[2018.07.28-10.13.21:431][585]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-10.13.21:561][585]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.103s
+[2018.07.28-10.13.21:561][585]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.07.28-10.13.21:561][585]LogVolumetricLightmapImport:      BrickData 205x5x5 = 0.2Mb
+[2018.07.28-10.13.21:561][585]LogVolumetricLightmapImport:      Bricks at Level
+[2018.07.28-10.13.21:561][585]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2018.07.28-10.13.21:561][585]LogVolumetricLightmapImport:          1: 9.8% covering 6.3% of volume
+[2018.07.28-10.13.21:561][585]LogVolumetricLightmapImport:          2: 87.8% covering 0.9% of volume
+[2018.07.28-10.13.21:781][585]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.07.28-10.13.21:782][585]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.07.28-10.13.21:782][585]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.07.28-10.13.21:782][585]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.07.28-10.13.21:782][585]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.07.28-10.13.21:782][585]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.07.28-10.13.21:782][585]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.07.28-10.13.21:810][585]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X512)
+[2018.07.28-10.13.21:862][585]Lightmass on DBYUSSIPC: 5.71 sec total, 431 ms importing, 16 ms setup, 1.93 sec photons, 3.25 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 12.9 sec total, 2.81 sec processing.
+[2018.07.28-10.13.21:891][585]LogStaticLightingSystem: Illumination: 12.3 sec (167 ms encoding lightmaps, 56 ms encoding shadowmaps)
+[2018.07.28-10.13.21:891][585]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.07.28-10.13.21:891][585]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.07.28-10.13.22:533][585]DumpUnbuiltLightIteractions
+[2018.07.28-10.13.22:533][585]Lights with unbuilt interactions: 0
+[2018.07.28-10.13.22:533][585]
+[2018.07.28-10.13.22:533][585]Primitives with unbuilt interactions: 0
+[2018.07.28-10.13.22:595][586]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.07.28-10.13.22:595][586]MapCheck: New page: Battle_map - 2018/07/29 4:13:22
+[2018.07.28-10.13.22:669][586]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 74.054ミリ秒かかりました。
+[2018.07.28-10.13.24:022][732]LogEditorViewport: Clicking on Actor (CTRL LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.07.28-10.13.25:685][906]LogEditorViewport: Clicking on Actor (CTRL LMB): PostProcessVolume (PostProcessVolume)
+[2018.07.28-10.13.28:138][159]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2018.07.28-10.13.32:640][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.13.40:758][471]Cmd: TRANSACTION UNDO
+[2018.07.28-10.13.40:758][471]LogEditorTransaction: Undo アクタ をスケール
+[2018.07.28-10.13.44:237][844]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.07.28-10.13.50:653][504]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.07.28-10.14.13:914][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.14.17:906][286]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.07.28-10.14.22:420][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-10.14.24:408][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-10.14.24:409][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-10.14.24:412][955]PIE: New page: PIEセッション: Battle_map (2018/07/29 4:14:24)
+[2018.07.28-10.14.24:412][955]LogPlayLevel: Creating play world package: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map
+[2018.07.28-10.14.24:439][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026769s)
+[2018.07.28-10.14.24:440][955]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.28-10.14.24:441][955]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2018.07.28-10.14.24:441][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bakaure/Battle/maps/Battle_map.Battle_map to /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map (0.028125s)
+[2018.07.28-10.14.24:533][955]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-10.14.24:557][955]LogInit: FAudioDevice initialized.
+[2018.07.28-10.14.24:563][955]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-10.14.24:629][955]LogLoad: Game class is 'TitleGameMode_C'
+[2018.07.28-10.14.24:640][955]LogWorld: Bringing World /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map up for play (max tick rate 0) at 2018.07.28-19.14.24
+[2018.07.28-10.14.24:644][955]LogWorld: Bringing up level for play took: 0.005343
+[2018.07.28-10.14.24:660][955]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.07.28-10.14.24:667][955]PIE: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map -0.6のプレイ イン エディタの開始時間
+[2018.07.28-10.14.24:667][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-10.14.24:698][955]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.07.28-10.14.39:771][523]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-10.14.39:779][523]LogSlate: Window 'Bakaure ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2018.07.28-10.14.39:813][523]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-10.14.40:868][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.28-10.14.42:897][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.14.47:486][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.14.47:564][330]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2018.07.28-10.14.47:571][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-10.14.47:571][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-10.14.47:571][330]PIE: New page: PIEセッション: Battle_map (2018/07/29 4:14:47)
+[2018.07.28-10.14.47:571][330]LogPlayLevel: Creating play world package: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map
+[2018.07.28-10.14.47:584][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013044s)
+[2018.07.28-10.14.47:585][330]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.28-10.14.47:585][330]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2018.07.28-10.14.47:585][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bakaure/Battle/maps/Battle_map.Battle_map to /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map (0.013911s)
+[2018.07.28-10.14.47:607][330]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-10.14.47:628][330]LogInit: FAudioDevice initialized.
+[2018.07.28-10.14.47:701][330]LogLoad: Game class is 'TitleGameMode_C'
+[2018.07.28-10.14.47:703][330]LogWorld: Bringing World /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map up for play (max tick rate 0) at 2018.07.28-19.14.47
+[2018.07.28-10.14.47:703][330]LogWorld: Bringing up level for play took: 0.001083
+[2018.07.28-10.14.47:708][330]PIE: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map 0.44のプレイ イン エディタの開始時間
+[2018.07.28-10.14.47:708][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-10.15.10:500][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-10.15.10:505][426]LogSlate: Window 'Bakaure ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2018.07.28-10.15.10:538][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-10.19.19:607][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.19.26:186][170]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-10.19.27:712][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-10.19.56:823][618]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-10.20.10:345][155]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Picture\bakaure\mitorizu.PNG)
+[2018.07.28-10.20.10:358][155]LogTexture: Display: Building textures: mitorizu (AutoDXT, 408X408)
+[2018.07.28-10.20.12:958][297]LogMaterial: Missing cached shader map for material mitorizu_Mat, compiling. 
+[2018.07.28-10.20.12:988][297]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-10.20.12:988][297]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-10.20.12:988][297]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-10.20.40:441][448]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2018.07.28-10.20.44:943][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.20.45:142][861]LogMaterial: Missing cached shader map for material mitorizu_Mat, compiling. 
+[2018.07.28-10.20.45:613][861]LogMaterial: Missing cached shader map for material mitorizu_Mat, compiling. 
+[2018.07.28-10.20.45:636][861]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-10.20.45:636][861]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-10.20.45:636][861]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-10.20.45:649][861]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.28-10.20.45:693][861]LogSlate: Took 0.006367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2018.07.28-10.20.45:697][861]LogSlate: Took 0.003151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.28-10.20.49:091][877]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-10.20.49:091][877]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-10.20.49:091][877]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-10.20.49:091][877]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-10.20.50:157][878]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-10.20.50:157][878]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-10.20.50:157][878]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-10.20.50:164][878]LogMaterial: Missing cached shader map for material mitorizu_Mat, compiling. 
+[2018.07.28-10.20.51:454][966]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-10.20.51:454][966]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-10.20.51:701][968]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-10.20.52:285][969]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-10.20.52:286][969]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-10.20.52:286][969]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-10.20.52:286][969]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-10.20.52:286][969]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-10.20.52:294][969]LogMaterial: Missing cached shader map for material mitorizu_Mat, compiling. 
+[2018.07.28-10.20.52:537][991]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-10.20.53:621][ 81]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-10.20.53:621][ 81]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-10.20.54:535][ 82]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-10.20.54:535][ 82]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-10.20.54:535][ 82]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-10.20.54:535][ 82]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-10.20.54:535][ 82]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-10.20.54:535][ 82]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-10.20.54:536][ 82]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-10.20.56:324][ 83]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-10.20.56:324][ 83]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-10.20.56:324][ 83]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-10.20.56:324][ 83]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-10.20.56:324][ 83]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-10.20.56:324][ 83]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-10.20.56:426][ 84]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.07.28-10.20.56:426][ 84]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.07.28-10.20.56:426][ 84]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.28-10.20.56:426][ 84]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.28-10.20.56:426][ 84]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-10.20.58:752][245]LogSlate: Window 'mitorizu_Mat*' being destroyed
+[2018.07.28-10.20.58:756][245]LogSlate: Window 'mitorizu_Mat*' being destroyed
+[2018.07.28-10.21.03:105][518]LogSlate: Window 'mitorizu_Mat*' being destroyed
+[2018.07.28-10.23.17:725][543]LogSavePackage: Save=154.42ms
+[2018.07.28-10.23.17:725][543]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Battle_map_Auto187E4EC7C4841827CC78FF9BB135FB8E1.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto1.umap'
+[2018.07.28-10.23.17:727][543]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto1.umap
+[2018.07.28-10.23.17:739][543]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bakaure/Battle/maps/Battle_map' took 1.265
+[2018.07.28-10.23.17:739][543]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.265
+[2018.07.28-10.23.17:742][543]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bakaure/Battle/maps/Battle_map_BuiltData] ([1] browsable assets)...
+[2018.07.28-10.23.17:742][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bakaure/Battle/maps/Battle_map_BuiltData]
+[2018.07.28-10.23.17:764][543]LogSavePackage: Save=21.25ms
+[2018.07.28-10.23.17:765][543]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Battle_map_BuiltData_Auto13CBA41544373C6068F0124B5C63652FC.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_BuiltData_Auto1.uasset'
+[2018.07.28-10.23.17:766][543]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_BuiltData_Auto1.uasset
+[2018.07.28-10.23.17:767][543]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bakaure/Battle/map_picture/mitorizu] ([1] browsable assets)...
+[2018.07.28-10.23.17:775][543]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Bakaure/Battle/map_picture/mitorizu.mitorizu]
+[2018.07.28-10.23.17:775][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bakaure/Battle/map_picture/mitorizu]
+[2018.07.28-10.23.17:790][543]LogSavePackage: Save=10.16ms
+[2018.07.28-10.23.17:790][543]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/mitorizu_Auto1E1C79404495C64E6B3F7FA9B9A6F78C7.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/map_picture/mitorizu_Auto1.uasset'
+[2018.07.28-10.23.17:791][543]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/map_picture/mitorizu_Auto1.uasset
+[2018.07.28-10.23.17:792][543]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bakaure/Battle/map_picture/mitorizu_Mat] ([1] browsable assets)...
+[2018.07.28-10.23.17:803][543]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Bakaure/Battle/map_picture/mitorizu_Mat.mitorizu_Mat]
+[2018.07.28-10.23.17:803][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bakaure/Battle/map_picture/mitorizu_Mat]
+[2018.07.28-10.23.17:819][543]LogSavePackage: Save=13.24ms
+[2018.07.28-10.23.17:819][543]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/mitorizu_Mat_Auto1A9F898734A8B15B19C1FE89EFA0FE39C.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/map_picture/mitorizu_Mat_Auto1.uasset'
+[2018.07.28-10.23.17:821][543]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/map_picture/mitorizu_Mat_Auto1.uasset
+[2018.07.28-10.23.17:821][543]LogFileHelpers: Auto-saving content packages took 0.080
+[2018.07.28-10.23.42:437][176]LogSlate: Took 0.007457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.28-10.27.44:978][308]LogSlate: Window 'Material Baking Options' being destroyed
+[2018.07.28-10.27.44:990][308]LogMaterial: Missing cached shader map for material FExportMaterialRenderer mitorizu_Mat, compiling. 
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-10.27.52:093][308]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-10.27.52:094][308]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-10.27.52:094][308]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-10.27.52:094][308]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-10.27.52:094][308]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-10.27.52:094][308]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-10.27.52:094][308]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-10.27.52:094][308]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-10.27.52:094][308]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-10.27.52:094][308]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-10.27.52:094][308]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-10.27.52:142][308]LogTexture: Display: Building textures: T_M_TemplateFloor_mitorizu_Mat_945FC22B418C839149889D896987C621_BaseColor (BGRA8, 128X128)
+[2018.07.28-10.27.52:183][308]LogMaterial: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2018.07.28-10.27.52:269][308]LogShaderCompilers: Display: Shaders left to compile 213
+[2018.07.28-10.27.52:269][308]LogShaderCompilers: Display: Shaders left to compile 203
+[2018.07.28-10.27.52:269][308]LogShaderCompilers: Display: Shaders left to compile 193
+[2018.07.28-10.27.54:286][310]LogShaderCompilers: Display: Shaders left to compile 183
+[2018.07.28-10.27.54:295][310]LogShaderCompilers: Display: Shaders left to compile 173
+[2018.07.28-10.28.08:133][424]LogShaderCompilers: Display: Shaders left to compile 163
+[2018.07.28-10.28.08:133][424]LogShaderCompilers: Display: Shaders left to compile 153
+[2018.07.28-10.28.08:133][424]LogShaderCompilers: Display: Shaders left to compile 143
+[2018.07.28-10.28.08:133][424]LogShaderCompilers: Display: Shaders left to compile 133
+[2018.07.28-10.28.08:133][424]LogShaderCompilers: Display: Shaders left to compile 123
+[2018.07.28-10.28.08:133][424]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.07.28-10.28.08:133][424]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.07.28-10.28.08:133][424]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.07.28-10.28.18:821][425]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.07.28-10.28.18:821][425]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.07.28-10.28.18:821][425]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.07.28-10.28.18:821][425]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.07.28-10.28.18:821][425]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.07.28-10.28.21:550][441]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.28-10.28.21:550][441]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-10.28.21:550][441]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-10.28.22:365][442]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-10.34.38:406][502]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bakaure/Battle/maps/Battle_map' took 0.016
+[2018.07.28-10.34.38:408][502]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Geometry/Meshes/M_TemplateFloor_mitorizu_Mat_945FC22B418C839149889D896987C621] ([2] browsable assets)...
+[2018.07.28-10.34.38:425][502]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Geometry/Meshes/M_TemplateFloor_mitorizu_Mat_945FC22B418C839149889D896987C621.M_M_TemplateFloor_mitorizu_Mat_945FC22B418C839149889D896987C621]
+[2018.07.28-10.34.38:428][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Meshes/M_TemplateFloor_mitorizu_Mat_945FC22B418C839149889D896987C621.T_M_TemplateFloor_mitorizu_Mat_945FC22B418C839149889D896987C621_BaseColor]
+[2018.07.28-10.34.38:428][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/M_TemplateFloor_mitorizu_Mat_945FC22B418C839149889D896987C621]
+[2018.07.28-10.34.39:089][502]LogTexture: Display: Building textures: T_M_TemplateFloor_mitorizu_Mat_945FC22B418C839149889D896987C621_BaseColor (DXT1, 128X128)
+[2018.07.28-10.34.39:112][502]LogSavePackage: Save=23.66ms
+[2018.07.28-10.34.39:112][502]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/M_TemplateFloor_mitorizu_Mat_9452051DC484EEB9300F07285973C871A3A.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Geometry/Meshes/M_TemplateFloor_mitorizu_Mat_945FC22B418C839149889D896987C621_Auto2.uasset'
+[2018.07.28-10.34.39:113][502]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Geometry/Meshes/M_TemplateFloor_mitorizu_Mat_945FC22B418C839149889D896987C621_Auto2.uasset
+[2018.07.28-10.34.39:113][502]LogFileHelpers: Auto-saving content packages took 0.706
+[2018.07.28-10.34.56:463][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.28-10.35.09:647][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-10.35.20:864][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.35.21:039][108]LogActorFactory: Actor Factory created Plane
+[2018.07.28-10.35.27:368][783]LogActorFactory: Actor Factory created Plane
+[2018.07.28-10.35.29:089][962]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.07.28-10.35.32:125][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.35.42:990][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.35.54:342][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.36.00:247][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.36.08:941][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.36.11:712][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.36.25:917][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.36.26:017][702]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2018.07.28-10.36.26:022][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-10.36.26:022][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-10.36.26:024][702]PIE: New page: PIEセッション: Battle_map (2018/07/29 4:36:26)
+[2018.07.28-10.36.26:024][702]LogPlayLevel: Creating play world package: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map
+[2018.07.28-10.36.26:071][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047490s)
+[2018.07.28-10.36.26:073][702]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.28-10.36.26:073][702]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2018.07.28-10.36.26:073][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bakaure/Battle/maps/Battle_map.Battle_map to /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map (0.049371s)
+[2018.07.28-10.36.26:106][702]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-10.36.26:121][702]LogInit: FAudioDevice initialized.
+[2018.07.28-10.36.26:169][702]LogLoad: Game class is 'TitleGameMode_C'
+[2018.07.28-10.36.26:175][702]LogWorld: Bringing World /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map up for play (max tick rate 0) at 2018.07.28-19.36.26
+[2018.07.28-10.36.26:176][702]LogWorld: Bringing up level for play took: 0.004545
+[2018.07.28-10.36.26:183][702]PIE: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map 0.916のプレイ イン エディタの開始時間
+[2018.07.28-10.36.26:184][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-10.37.40:182][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-10.37.40:187][546]LogSlate: Window 'Bakaure ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2018.07.28-10.37.40:220][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-10.38.57:516][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-10.39.00:175][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/maps/Battle_map" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.28-10.39.00:422][719]LogSavePackage: Save=75.46ms
+[2018.07.28-10.39.00:422][719]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Battle_mapCAA99A8845234ECBE2E7BD9423A6532A.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map.umap'
+[2018.07.28-10.39.00:426][719]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map.umap
+[2018.07.28-10.39.00:437][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/maps/Battle_map_BuiltData" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map_BuiltData.uasset" SILENT=true
+[2018.07.28-10.39.00:482][719]LogSavePackage: Save=43.91ms
+[2018.07.28-10.39.00:482][719]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Battle_map_BuiltDataD5E39DCC431C1DBDD8EB74ADD3E6B3BA.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map_BuiltData.uasset'
+[2018.07.28-10.39.00:484][719]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map_BuiltData.uasset
+[2018.07.28-11.15.14:509][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.15.14:736][970]LogActorFactory: Actor Factory created Cube
+[2018.07.28-11.15.15:829][100]LogActorFactory: Actor Factory created Cube
+[2018.07.28-11.15.19:834][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.15.22:973][929]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.07.28-11.15.26:368][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.07.28-11.15.35:812][381]Cmd: DELETE
+[2018.07.28-11.15.35:812][381]Cmd: ACTOR DELETE
+[2018.07.28-11.15.35:820][381]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.28-11.15.35:846][381]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.07.28-11.15.38:129][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.15.41:200][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.28-11.15.42:702][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.15.43:612][293]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.07.28-11.15.50:647][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.15.54:168][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.16.00:752][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.16.22:090][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.16.22:232][809]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2018.07.28-11.16.22:786][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.16.22:786][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-11.16.22:788][809]PIE: New page: PIEセッション: Battle_map (2018/07/29 5:16:22)
+[2018.07.28-11.16.22:788][809]LogPlayLevel: Creating play world package: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map
+[2018.07.28-11.16.22:826][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037786s)
+[2018.07.28-11.16.22:829][809]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.28-11.16.22:830][809]LogPlayLevel: PIE: World Init took: (0.003489s)
+[2018.07.28-11.16.22:830][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bakaure/Battle/maps/Battle_map.Battle_map to /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map (0.041604s)
+[2018.07.28-11.16.22:853][809]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-11.16.22:869][809]LogInit: FAudioDevice initialized.
+[2018.07.28-11.16.22:927][809]LogLoad: Game class is 'TitleGameMode_C'
+[2018.07.28-11.16.22:929][809]LogWorld: Bringing World /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map up for play (max tick rate 0) at 2018.07.28-20.16.22
+[2018.07.28-11.16.22:930][809]LogWorld: Bringing up level for play took: 0.001895
+[2018.07.28-11.16.22:936][809]PIE: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map -0.332のプレイ イン エディタの開始時間
+[2018.07.28-11.16.22:936][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.16.33:355][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.16.33:360][ 49]LogSlate: Window 'Bakaure ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2018.07.28-11.16.33:390][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.16.59:741][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.17.27:629][749]LogSavePackage: Save=116.71ms
+[2018.07.28-11.17.27:629][749]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Battle_map_Auto3CBB770814D20D5A3F8B3EB94472DBBF1.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto3.umap'
+[2018.07.28-11.17.27:633][749]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto3.umap
+[2018.07.28-11.17.27:636][749]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bakaure/Battle/maps/Battle_map' took 0.780
+[2018.07.28-11.17.27:636][749]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.780
+[2018.07.28-11.24.28:144][641]Cmd: EDIT COPY
+[2018.07.28-11.24.28:447][676]Cmd: EDIT PASTE
+[2018.07.28-11.24.29:821][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.24.34:162][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.24.49:614][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.24.56:022][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.25.05:363][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.25.11:421][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.25.15:578][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.25.25:065][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.25.25:190][360]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2018.07.28-11.25.25:196][360]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.25.25:196][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-11.25.25:196][360]PIE: New page: PIEセッション: Battle_map (2018/07/29 5:25:25)
+[2018.07.28-11.25.25:196][360]LogPlayLevel: Creating play world package: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map
+[2018.07.28-11.25.25:212][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015497s)
+[2018.07.28-11.25.25:212][360]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.28-11.25.25:213][360]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2018.07.28-11.25.25:213][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bakaure/Battle/maps/Battle_map.Battle_map to /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map (0.016708s)
+[2018.07.28-11.25.25:234][360]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-11.25.25:247][360]LogInit: FAudioDevice initialized.
+[2018.07.28-11.25.25:300][360]LogLoad: Game class is 'TitleGameMode_C'
+[2018.07.28-11.25.25:302][360]LogWorld: Bringing World /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map up for play (max tick rate 0) at 2018.07.28-20.25.25
+[2018.07.28-11.25.25:302][360]LogWorld: Bringing up level for play took: 0.001127
+[2018.07.28-11.25.25:308][360]PIE: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map 0.04のプレイ イン エディタの開始時間
+[2018.07.28-11.25.25:308][360]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.25.56:320][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.25.56:325][ 65]LogSlate: Window 'Bakaure ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2018.07.28-11.25.56:354][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.26.07:125][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.27.48:919][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.28.07:232][588]Cmd: EDIT COPY
+[2018.07.28-11.28.07:421][610]Cmd: EDIT PASTE
+[2018.07.28-11.28.21:336][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.28.25:119][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.28.42:138][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.28.42:254][631]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2018.07.28-11.28.42:260][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.28.42:260][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-11.28.42:260][631]PIE: New page: PIEセッション: Battle_map (2018/07/29 5:28:42)
+[2018.07.28-11.28.42:260][631]LogPlayLevel: Creating play world package: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map
+[2018.07.28-11.28.42:276][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015614s)
+[2018.07.28-11.28.42:276][631]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.28-11.28.42:277][631]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2018.07.28-11.28.42:277][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bakaure/Battle/maps/Battle_map.Battle_map to /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map (0.016691s)
+[2018.07.28-11.28.42:298][631]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-11.28.42:311][631]LogInit: FAudioDevice initialized.
+[2018.07.28-11.28.42:363][631]LogLoad: Game class is 'TitleGameMode_C'
+[2018.07.28-11.28.42:365][631]LogWorld: Bringing World /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map up for play (max tick rate 0) at 2018.07.28-20.28.42
+[2018.07.28-11.28.42:365][631]LogWorld: Bringing up level for play took: 0.001348
+[2018.07.28-11.28.42:370][631]PIE: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map 1.103のプレイ イン エディタの開始時間
+[2018.07.28-11.28.42:371][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.31.38:283][694]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.31.38:288][694]LogSlate: Window 'Bakaure ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2018.07.28-11.31.38:321][694]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.32.28:351][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.32.28:500][573]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2018.07.28-11.32.28:505][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.32.28:505][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-11.32.28:505][573]PIE: New page: PIEセッション: Battle_map (2018/07/29 5:32:28)
+[2018.07.28-11.32.28:505][573]LogPlayLevel: Creating play world package: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map
+[2018.07.28-11.32.28:521][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015362s)
+[2018.07.28-11.32.28:521][573]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.28-11.32.28:522][573]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2018.07.28-11.32.28:522][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bakaure/Battle/maps/Battle_map.Battle_map to /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map (0.016240s)
+[2018.07.28-11.32.28:541][573]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-11.32.28:556][573]LogInit: FAudioDevice initialized.
+[2018.07.28-11.32.28:614][573]LogLoad: Game class is 'TitleGameMode_C'
+[2018.07.28-11.32.28:615][573]LogWorld: Bringing World /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map up for play (max tick rate 0) at 2018.07.28-20.32.28
+[2018.07.28-11.32.28:616][573]LogWorld: Bringing up level for play took: 0.001097
+[2018.07.28-11.32.28:619][573]PIE: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map -0.648のプレイ イン エディタの開始時間
+[2018.07.28-11.32.28:620][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.35.18:062][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.35.18:067][860]LogSlate: Window 'Bakaure ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2018.07.28-11.35.18:098][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.35.34:459][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.35.34:575][755]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2018.07.28-11.35.34:580][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.35.34:580][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-11.35.34:580][755]PIE: New page: PIEセッション: Battle_map (2018/07/29 5:35:34)
+[2018.07.28-11.35.34:580][755]LogPlayLevel: Creating play world package: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map
+[2018.07.28-11.35.34:594][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013432s)
+[2018.07.28-11.35.34:595][755]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.28-11.35.34:595][755]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2018.07.28-11.35.34:595][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bakaure/Battle/maps/Battle_map.Battle_map to /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map (0.014449s)
+[2018.07.28-11.35.34:615][755]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-11.35.34:631][755]LogInit: FAudioDevice initialized.
+[2018.07.28-11.35.34:692][755]LogLoad: Game class is 'TitleGameMode_C'
+[2018.07.28-11.35.34:693][755]LogWorld: Bringing World /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map up for play (max tick rate 0) at 2018.07.28-20.35.34
+[2018.07.28-11.35.34:694][755]LogWorld: Bringing up level for play took: 0.001103
+[2018.07.28-11.35.34:697][755]PIE: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map -0.57のプレイ イン エディタの開始時間
+[2018.07.28-11.35.34:698][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.38.11:132][480]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.38.11:137][480]LogSlate: Window 'Bakaure ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2018.07.28-11.38.11:168][480]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-11.38.52:114][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-11.38.52:817][375]LogSavePackage: Save=673.95ms
+[2018.07.28-11.38.52:817][375]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Battle_map_Auto4E22836E04FD26B13F4416CB18BD365FA.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto4.umap'
+[2018.07.28-11.38.52:821][375]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto4.umap
+[2018.07.28-11.38.52:824][375]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bakaure/Battle/maps/Battle_map' took 0.701
+[2018.07.28-11.38.52:824][375]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.701
+[2018.07.28-11.39.42:367][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-11.59.24:972][393]LogLinker: Warning: ファイル '/Game/SMs/ima/kyoudai/mokume4' が見つかりません
+[2018.07.28-11.59.24:972][393]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/texture/SMs/ima/kyoudai/mokume4_Mat.uasset のロード中にアセット '/Game/SMs/ima/kyoudai/mokume4'  のファイルが見つかりません
+[2018.07.28-11.59.24:973][393]LoadErrors: Error: /Game/Bakaure/Battle/texture/SMs/ima/kyoudai/mokume4_Mat : アセットのファイルが見つかりません /Game/SMs/ima/kyoudai/mokume4
+[2018.07.28-11.59.24:973][393]LogLinker: Warning: ファイル '/Game/SMs/ima/kyoudai/mokume4' が見つかりません
+[2018.07.28-11.59.24:974][393]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/texture/SMs/ima/kyoudai/mokume4_Mat.uasset のロード中にアセット '/Game/SMs/ima/kyoudai/mokume4'  のファイルが見つかりません
+[2018.07.28-11.59.24:974][393]LogLinker: Warning: ファイル '/Game/SMs/ima/kyoudai/mokume4' が見つかりません
+[2018.07.28-11.59.24:974][393]LoadErrors: ロードに失敗しました /Game/SMs/ima/kyoudai/mokume4.mokume4 参照元 MaterialExpressionTextureSample_0
+[2018.07.28-11.59.24:974][393]LogLinker: Warning: NULL のロード中にアセット '/Game/SMs/ima/kyoudai/mokume4'  のファイルが見つかりません
+[2018.07.28-11.59.24:977][393]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-11.59.24:979][393]LogMaterial: Warning: D:\MunakataToshizo\BakaureGodGame\Content\Bakaure\Battle\texture\SMs\ima\kyoudai\mokume4_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.28-11.59.24:979][393]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.28-11.59.33:969][456]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-11.59.41:221][324]Cmd: POLY SELECT MATCHING BRUSH
+[2018.07.28-11.59.43:813][629]Cmd: POLY SELECT MATCHING TEXTURE
+[2018.07.28-11.59.58:893][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.01.01:255][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/texture/mokume4_Mat" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/texture/mokume4_Mat.uasset" SILENT=true
+[2018.07.28-12.01.01:268][751]LogSavePackage: Save=11.41ms
+[2018.07.28-12.01.01:268][751]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/mokume4_MatC7D2CFE84CAA8093D77010B66E2EEE00.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/texture/mokume4_Mat.uasset'
+[2018.07.28-12.01.01:270][751]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/texture/mokume4_Mat.uasset
+[2018.07.28-12.01.01:281][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/texture/mokume4" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/texture/mokume4.uasset" SILENT=true
+[2018.07.28-12.01.01:316][751]LogSavePackage: Save=34.12ms
+[2018.07.28-12.01.01:316][751]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/mokume4087CF02F4B4550F222E8B58CA4047D22.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/texture/mokume4.uasset'
+[2018.07.28-12.01.01:317][751]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/texture/mokume4.uasset
+[2018.07.28-12.01.15:139][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.01.20:500][982]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.01.20:501][982]LogMaterial: Warning: /Engine/Transient.mokume4_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.28-12.01.20:501][982]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.28-12.01.20:538][982]LogTabManager: Warning: Unable to insert tab 'StandaloneToolkit'.
+[2018.07.28-12.01.20:570][982]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.01.20:570][982]LogMaterial: Warning: /Engine/Transient.mokume4_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.28-12.01.20:570][982]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.28-12.01.20:573][982]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.01.20:573][982]LogMaterial: Warning: /Engine/Transient.mokume4_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.28-12.01.20:573][982]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.28-12.01.20:606][982]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.28-12.01.20:612][982]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.07.28-12.01.29:685][911]LogSlate: Window 'mokume4_Mat' being destroyed
+[2018.07.28-12.01.29:689][911]LogSlate: Window 'mokume4_Mat' being destroyed
+[2018.07.28-12.01.33:832][259]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.28-12.01.35:866][391]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.01.35:878][391]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-12.01.35:878][391]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-12.01.35:878][391]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-12.01.38:428][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.02.04:825][703]LogSavePackage: Save=72.74ms
+[2018.07.28-12.02.04:825][703]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Battle_map_Auto5CA8354FE4D40E22945EAE4B553CB685B.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto5.umap'
+[2018.07.28-12.02.04:826][703]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto5.umap
+[2018.07.28-12.02.04:827][703]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bakaure/Battle/maps/Battle_map' took 0.094
+[2018.07.28-12.02.04:827][703]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.094
+[2018.07.28-12.02.04:830][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bakaure/Battle/texture/mokume4_Mat] ([1] browsable assets)...
+[2018.07.28-12.02.04:841][703]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Bakaure/Battle/texture/mokume4_Mat.mokume4_Mat]
+[2018.07.28-12.02.04:841][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bakaure/Battle/texture/mokume4_Mat]
+[2018.07.28-12.02.04:853][703]LogSavePackage: Save=11.13ms
+[2018.07.28-12.02.04:853][703]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/mokume4_Mat_Auto5F877CCFF46D3EBB2D53B72BA3CAA412D.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/texture/mokume4_Mat_Auto5.uasset'
+[2018.07.28-12.02.04:854][703]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/texture/mokume4_Mat_Auto5.uasset
+[2018.07.28-12.02.04:854][703]LogFileHelpers: Auto-saving content packages took 0.026
+[2018.07.28-12.02.08:592][142]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2018.07.28-12.02.08:598][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.02.08:599][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-12.02.08:599][142]PIE: New page: PIEセッション: Battle_map (2018/07/29 6:02:08)
+[2018.07.28-12.02.08:599][142]LogPlayLevel: Creating play world package: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map
+[2018.07.28-12.02.08:613][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013862s)
+[2018.07.28-12.02.08:613][142]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.28-12.02.08:613][142]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2018.07.28-12.02.08:613][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bakaure/Battle/maps/Battle_map.Battle_map to /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map (0.014625s)
+[2018.07.28-12.02.08:634][142]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-12.02.08:647][142]LogInit: FAudioDevice initialized.
+[2018.07.28-12.02.08:696][142]LogLoad: Game class is 'TitleGameMode_C'
+[2018.07.28-12.02.08:698][142]LogWorld: Bringing World /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map up for play (max tick rate 0) at 2018.07.28-21.02.08
+[2018.07.28-12.02.08:698][142]LogWorld: Bringing up level for play took: 0.001994
+[2018.07.28-12.02.08:703][142]PIE: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map -0.565のプレイ イン エディタの開始時間
+[2018.07.28-12.02.08:710][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.03.39:617][999]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.03.39:624][999]LogSlate: Window 'Bakaure ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2018.07.28-12.03.39:657][999]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.03.40:808][133]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.03.40:866][133]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.03.40:874][133]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.03.40:884][133]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-12.03.40:884][133]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-12.03.40:884][133]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-12.03.40:909][133]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.07.28-12.03.41:392][150]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-12.03.41:404][151]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-12.03.41:404][151]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-12.03.41:559][154]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-12.03.41:571][155]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-12.03.41:613][156]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-12.03.41:705][157]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-12.03.41:855][158]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-12.03.41:867][159]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-12.03.41:904][160]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-12.03.42:072][163]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-12.03.42:153][165]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-12.03.42:196][166]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-12.03.42:305][167]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-12.03.42:363][169]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-12.03.42:437][172]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.07.28-12.03.42:437][172]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.07.28-12.03.42:437][172]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.28-12.03.42:437][172]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.28-12.03.42:437][172]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-12.03.45:546][530]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.03.45:583][531]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-12.03.45:583][531]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-12.03.45:583][531]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-12.03.45:734][532]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-12.03.45:734][532]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-12.03.45:745][533]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-12.03.45:876][534]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-12.03.45:886][535]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-12.03.45:886][535]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-12.03.46:009][537]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-12.03.46:147][539]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-12.03.46:192][542]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-12.03.46:192][542]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-12.03.46:350][543]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-12.03.46:442][545]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-12.03.46:489][547]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-12.03.46:843][575]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.07.28-12.03.46:843][575]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.07.28-12.03.46:843][575]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.28-12.03.46:843][575]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.28-12.03.46:844][575]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-12.03.51:756][158]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.03.51:763][158]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-12.03.51:763][158]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-12.03.51:763][158]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-12.03.51:935][161]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-12.03.51:945][162]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-12.03.51:955][163]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-12.03.52:074][164]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-12.03.52:086][165]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-12.03.52:098][166]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-12.03.52:217][167]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-12.03.52:366][169]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-12.03.52:366][169]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-12.03.52:379][170]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-12.03.52:535][171]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-12.03.52:626][172]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-12.03.52:682][174]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-12.03.53:008][197]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.07.28-12.03.53:008][197]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.07.28-12.03.53:008][197]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.28-12.03.53:008][197]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.28-12.03.53:008][197]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-12.03.57:544][717]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.03.57:552][717]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.03.57:576][719]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-12.03.57:576][719]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-12.03.57:576][719]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-12.03.57:733][721]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-12.03.57:744][722]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-12.03.57:763][724]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-12.03.57:875][726]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-12.03.57:911][728]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-12.03.57:921][729]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-12.03.58:016][730]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-12.03.58:167][731]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-12.03.58:167][731]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-12.03.58:198][733]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-12.03.58:371][735]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-12.03.58:454][737]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-12.03.58:496][739]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-12.03.58:807][760]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.07.28-12.03.58:807][760]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.07.28-12.03.58:807][760]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.28-12.03.58:807][760]MaterialEditorStats: Texture samplers: 3/16
+[2018.07.28-12.03.58:807][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-12.04.00:183][921]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.04.00:197][922]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-12.04.00:198][922]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.07.28-12.04.00:198][922]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.07.28-12.04.00:300][934]LogMaterialEditor: Applying material mokume4_Mat
+[2018.07.28-12.04.01:616][934]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.07.28-12.04.01:616][934]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-12.04.01:616][934]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.28-12.04.01:616][934]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.07.28-12.04.01:616][934]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.07.28-12.04.01:616][934]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.07.28-12.04.01:617][934]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.28-12.04.01:617][934]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.07.28-12.04.01:617][934]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-12.04.01:617][934]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.07.28-12.04.01:617][934]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.07.28-12.04.01:617][934]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-12.04.01:617][934]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.07.28-12.04.01:629][934]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.04.01:650][934]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.07.28-12.04.01:673][934]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.04.01:688][934]LogMaterial: Missing cached shader map for material mokume4_Mat, compiling. 
+[2018.07.28-12.04.01:712][934]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy mokume4_Mat, compiling. 
+[2018.07.28-12.04.02:890][934]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.07.28-12.04.02:890][934]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.07.28-12.04.02:890][934]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.07.28-12.04.02:890][934]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.07.28-12.04.02:890][934]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.07.28-12.04.02:890][934]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.07.28-12.04.02:890][934]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.07.28-12.04.02:890][934]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.28-12.04.02:891][934]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.07.28-12.04.02:891][934]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.07.28-12.04.02:891][934]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.07.28-12.04.02:891][934]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.28-12.04.02:891][934]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.07.28-12.04.02:891][934]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.07.28-12.04.02:891][934]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.07.28-12.04.02:891][934]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.07.28-12.04.02:891][934]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-12.04.02:891][934]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-12.04.02:891][934]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-12.04.02:892][934]TextureStreamingBuild: Display: Compiling optional shaders took 1.185 seconds.
+[2018.07.28-12.04.04:343][ 38]LogSlate: Window 'mokume4_Mat*' being destroyed
+[2018.07.28-12.04.05:968][232]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.07.28-12.04.05:968][232]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.07.28-12.04.05:969][232]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.07.28-12.04.05:969][232]MaterialEditorStats: Texture samplers: 4/16
+[2018.07.28-12.04.05:969][232]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.07.28-12.04.07:917][465]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2018.07.28-12.04.07:922][465]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.04.07:924][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-12.04.07:924][465]PIE: New page: PIEセッション: Battle_map (2018/07/29 6:04:07)
+[2018.07.28-12.04.07:924][465]LogPlayLevel: Creating play world package: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map
+[2018.07.28-12.04.07:937][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013052s)
+[2018.07.28-12.04.07:937][465]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.28-12.04.07:938][465]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2018.07.28-12.04.07:938][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bakaure/Battle/maps/Battle_map.Battle_map to /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map (0.013918s)
+[2018.07.28-12.04.07:958][465]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-12.04.07:974][465]LogInit: FAudioDevice initialized.
+[2018.07.28-12.04.08:023][465]LogLoad: Game class is 'TitleGameMode_C'
+[2018.07.28-12.04.08:025][465]LogWorld: Bringing World /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map up for play (max tick rate 0) at 2018.07.28-21.04.08
+[2018.07.28-12.04.08:025][465]LogWorld: Bringing up level for play took: 0.001260
+[2018.07.28-12.04.08:029][465]PIE: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map 0.762のプレイ イン エディタの開始時間
+[2018.07.28-12.04.08:030][465]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.04.19:132][779]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.04.19:137][779]LogSlate: Window 'Bakaure ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2018.07.28-12.04.19:167][779]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.13.47:827][814]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bakaure/Battle/maps/Battle_map' took 0.017
+[2018.07.28-12.13.47:829][814]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bakaure/Battle/texture/mokume4_Mat] ([1] browsable assets)...
+[2018.07.28-12.13.47:846][814]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Bakaure/Battle/texture/mokume4_Mat.mokume4_Mat]
+[2018.07.28-12.13.47:846][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bakaure/Battle/texture/mokume4_Mat]
+[2018.07.28-12.13.47:859][814]LogSavePackage: Save=11.23ms
+[2018.07.28-12.13.47:859][814]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/mokume4_Mat_Auto6E0EC9B13442782DEF67F53BA00D03F57.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/texture/mokume4_Mat_Auto6.uasset'
+[2018.07.28-12.13.47:860][814]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/texture/mokume4_Mat_Auto6.uasset
+[2018.07.28-12.13.47:860][814]LogFileHelpers: Auto-saving content packages took 0.033
+[2018.07.28-12.16.14:130][148]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/douguire1/mokume6_Mat' が見つかりません
+[2018.07.28-12.16.14:130][148]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/genkan_SM.uasset のロード中にアセット '/Game/SMs/tyouriba/douguire1/mokume6_Mat'  のファイルが見つかりません
+[2018.07.28-12.16.14:130][148]LoadErrors: Error: /Game/Bakaure/Battle/SMs/genkan_SM : アセットのファイルが見つかりません /Game/SMs/tyouriba/douguire1/mokume6_Mat
+[2018.07.28-12.16.14:130][148]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/nagagutu/black_RB_MT_Auto5' が見つかりません
+[2018.07.28-12.16.14:130][148]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/genkan_SM.uasset のロード中にアセット '/Game/SMs/tyouriba/nagagutu/black_RB_MT_Auto5'  のファイルが見つかりません
+[2018.07.28-12.16.14:130][148]LoadErrors: Error: /Game/Bakaure/Battle/SMs/genkan_SM : アセットのファイルが見つかりません /Game/SMs/tyouriba/nagagutu/black_RB_MT_Auto5
+[2018.07.28-12.16.14:130][148]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat' が見つかりません
+[2018.07.28-12.16.14:130][148]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/genkan_SM.uasset のロード中にアセット '/Game/syouzi/washi_Mat'  のファイルが見つかりません
+[2018.07.28-12.16.14:131][148]LoadErrors: Error: /Game/Bakaure/Battle/SMs/genkan_SM : アセットのファイルが見つかりません /Game/syouzi/washi_Mat
+[2018.07.28-12.16.14:131][148]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/douguire1/mokume6_Mat' が見つかりません
+[2018.07.28-12.16.14:131][148]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/genkan_SM.uasset のロード中にアセット '/Game/SMs/tyouriba/douguire1/mokume6_Mat'  のファイルが見つかりません
+[2018.07.28-12.16.14:131][148]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/nagagutu/black_RB_MT_Auto5' が見つかりません
+[2018.07.28-12.16.14:131][148]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/genkan_SM.uasset のロード中にアセット '/Game/SMs/tyouriba/nagagutu/black_RB_MT_Auto5'  のファイルが見つかりません
+[2018.07.28-12.16.14:131][148]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat' が見つかりません
+[2018.07.28-12.16.14:131][148]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/genkan_SM.uasset のロード中にアセット '/Game/syouzi/washi_Mat'  のファイルが見つかりません
+[2018.07.28-12.16.14:131][148]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/douguire1/mokume6_Mat' が見つかりません
+[2018.07.28-12.16.14:131][148]LoadErrors: ロードに失敗しました /Game/SMs/tyouriba/douguire1/mokume6_Mat.mokume6_Mat 参照元 genkan_SM
+[2018.07.28-12.16.14:132][148]LogLinker: Warning: NULL のロード中にアセット '/Game/SMs/tyouriba/douguire1/mokume6_Mat'  のファイルが見つかりません
+[2018.07.28-12.16.14:132][148]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat' が見つかりません
+[2018.07.28-12.16.14:132][148]LoadErrors: ロードに失敗しました /Game/syouzi/washi_Mat.washi_Mat 参照元 genkan_SM
+[2018.07.28-12.16.14:132][148]LogLinker: Warning: NULL のロード中にアセット '/Game/syouzi/washi_Mat'  のファイルが見つかりません
+[2018.07.28-12.16.14:132][148]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/nagagutu/black_RB_MT_Auto5' が見つかりません
+[2018.07.28-12.16.14:132][148]LoadErrors: ロードに失敗しました /Game/SMs/tyouriba/nagagutu/black_RB_MT_Auto5.black_RB_MT 参照元 genkan_SM
+[2018.07.28-12.16.14:132][148]LogLinker: Warning: NULL のロード中にアセット '/Game/SMs/tyouriba/nagagutu/black_RB_MT_Auto5'  のファイルが見つかりません
+[2018.07.28-12.16.14:132][148]LogStaticMesh: スタティックメッシュ genkan_SM をビルド中...
+[2018.07.28-12.16.14:341][148]LogStaticMesh: Built static mesh [0.21s] /Game/Bakaure/Battle/SMs/genkan_SM.genkan_SM
+[2018.07.28-12.16.14:364][148]LogActorFactory: Actor Factory created genkan_SM
+[2018.07.28-12.16.15:590][294]LogActorFactory: Actor Factory created genkan_SM
+[2018.07.28-12.16.51:421][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.17.12:506][779]LogLinker: Warning: ファイル '/Game/takahasi/material/tatamifuti_Mat' が見つかりません
+[2018.07.28-12.17.12:506][779]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/tatami_SM.uasset のロード中にアセット '/Game/takahasi/material/tatamifuti_Mat'  のファイルが見つかりません
+[2018.07.28-12.17.12:506][779]LoadErrors: Error: /Game/Bakaure/Battle/SMs/tatami_SM : アセットのファイルが見つかりません /Game/takahasi/material/tatamifuti_Mat
+[2018.07.28-12.17.12:506][779]LogLinker: Warning: ファイル '/Game/takahasi/material/tatamiO33_Mat_Inst' が見つかりません
+[2018.07.28-12.17.12:506][779]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/tatami_SM.uasset のロード中にアセット '/Game/takahasi/material/tatamiO33_Mat_Inst'  のファイルが見つかりません
+[2018.07.28-12.17.12:506][779]LoadErrors: Error: /Game/Bakaure/Battle/SMs/tatami_SM : アセットのファイルが見つかりません /Game/takahasi/material/tatamiO33_Mat_Inst
+[2018.07.28-12.17.12:506][779]LogLinker: Warning: ファイル '/Game/takahasi/material/tatamifuti_Mat' が見つかりません
+[2018.07.28-12.17.12:506][779]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/tatami_SM.uasset のロード中にアセット '/Game/takahasi/material/tatamifuti_Mat'  のファイルが見つかりません
+[2018.07.28-12.17.12:507][779]LogLinker: Warning: ファイル '/Game/takahasi/material/tatamiO33_Mat_Inst' が見つかりません
+[2018.07.28-12.17.12:507][779]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/tatami_SM.uasset のロード中にアセット '/Game/takahasi/material/tatamiO33_Mat_Inst'  のファイルが見つかりません
+[2018.07.28-12.17.12:507][779]LogLinker: Warning: ファイル '/Game/takahasi/material/tatamifuti_Mat' が見つかりません
+[2018.07.28-12.17.12:507][779]LoadErrors: ロードに失敗しました /Game/takahasi/material/tatamifuti_Mat.tatamifuti_Mat 参照元 tatami_SM
+[2018.07.28-12.17.12:507][779]LogLinker: Warning: NULL のロード中にアセット '/Game/takahasi/material/tatamifuti_Mat'  のファイルが見つかりません
+[2018.07.28-12.17.12:508][779]LogLinker: Warning: ファイル '/Game/takahasi/material/tatamiO33_Mat_Inst' が見つかりません
+[2018.07.28-12.17.12:508][779]LoadErrors: ロードに失敗しました /Game/takahasi/material/tatamiO33_Mat_Inst.tatamiO33_Mat_Inst 参照元 tatami_SM
+[2018.07.28-12.17.12:508][779]LogLinker: Warning: NULL のロード中にアセット '/Game/takahasi/material/tatamiO33_Mat_Inst'  のファイルが見つかりません
+[2018.07.28-12.17.12:508][779]LogStaticMesh: スタティックメッシュ tatami_SM をビルド中...
+[2018.07.28-12.17.12:529][779]LogStaticMesh: Built static mesh [0.02s] /Game/Bakaure/Battle/SMs/tatami_SM.tatami_SM
+[2018.07.28-12.17.12:657][791]LogActorFactory: Actor Factory created tatami_SM
+[2018.07.28-12.17.13:236][856]LogActorFactory: Actor Factory created tatami_SM
+[2018.07.28-12.17.15:041][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.19.03:157][754]LogMaterial: Missing cached shader map for material mokume_2016-04-19-17-10-54_Mat, compiling. 
+[2018.07.28-12.19.03:169][754]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-12.19.03:169][754]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-12.19.03:169][754]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-12.19.03:829][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (genkan_SM)
+[2018.07.28-12.19.14:775][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.19.14:868][  2]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/bakethu/mokume_2016-04-19-17-10-54' が見つかりません
+[2018.07.28-12.19.14:868][  2]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54.uasset のロード中にアセット '/Game/SMs/tyouriba/bakethu/mokume_2016-04-19-17-10-54'  のファイルが見つかりません
+[2018.07.28-12.19.14:868][  2]LoadErrors: Error: /Game/Bakaure/Battle/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54 : アセットのファイルが見つかりません /Game/SMs/tyouriba/bakethu/mokume_2016-04-19-17-10-54
+[2018.07.28-12.19.14:868][  2]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/bakethu/mokume_2016-04-19-17-10-54' が見つかりません
+[2018.07.28-12.19.14:868][  2]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54.uasset のロード中にアセット '/Game/SMs/tyouriba/bakethu/mokume_2016-04-19-17-10-54'  のファイルが見つかりません
+[2018.07.28-12.19.14:868][  2]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/bakethu/mokume_2016-04-19-17-10-54' が見つかりません
+[2018.07.28-12.19.14:868][  2]LoadErrors: ロードに失敗しました /Game/SMs/tyouriba/bakethu/mokume_2016-04-19-17-10-54.mokume 参照元 MaterialExpressionTextureSample_0
+[2018.07.28-12.19.14:869][  2]LogLinker: Warning: NULL のロード中にアセット '/Game/SMs/tyouriba/bakethu/mokume_2016-04-19-17-10-54'  のファイルが見つかりません
+[2018.07.28-12.19.14:871][  2]LogMaterial: Missing cached shader map for material mokume_Mat, compiling. 
+[2018.07.28-12.19.14:871][  2]LogMaterial: Warning: D:\MunakataToshizo\BakaureGodGame\Content\Bakaure\Battle\SMs\tyouriba\bakethu\mokume_Mat_2016-04-19-17-10-54.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.28-12.19.14:871][  2]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.28-12.19.37:223][575]LogLinker: Warning: ファイル '/Game/syouzi/washi' が見つかりません
+[2018.07.28-12.19.37:223][575]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/syouzi/washi_Mat.uasset のロード中にアセット '/Game/syouzi/washi'  のファイルが見つかりません
+[2018.07.28-12.19.37:223][575]LoadErrors: Error: /Game/Bakaure/Battle/syouzi/washi_Mat : アセットのファイルが見つかりません /Game/syouzi/washi
+[2018.07.28-12.19.37:223][575]LogLinker: Warning: ファイル '/Game/syouzi/washi' が見つかりません
+[2018.07.28-12.19.37:224][575]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/syouzi/washi_Mat.uasset のロード中にアセット '/Game/syouzi/washi'  のファイルが見つかりません
+[2018.07.28-12.19.37:224][575]LogLinker: Warning: ファイル '/Game/syouzi/washi' が見つかりません
+[2018.07.28-12.19.37:224][575]LoadErrors: ロードに失敗しました /Game/syouzi/washi.washi 参照元 MaterialExpressionTextureSample_1
+[2018.07.28-12.19.37:224][575]LogLinker: Warning: NULL のロード中にアセット '/Game/syouzi/washi'  のファイルが見つかりません
+[2018.07.28-12.19.37:228][575]LogMaterial: Missing cached shader map for material washi_Mat, compiling. 
+[2018.07.28-12.19.37:228][575]LogMaterial: Warning: D:\MunakataToshizo\BakaureGodGame\Content\Bakaure\Battle\syouzi\washi_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.28-12.19.37:228][575]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.28-12.19.42:144][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.19.47:490][775]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-12.20.05:683][923]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/old_chair/mokume2_Auto2' が見つかりません
+[2018.07.28-12.20.05:683][923]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/tyouriba/old_chair/mokume2_Mat_Auto2.uasset のロード中にアセット '/Game/SMs/tyouriba/old_chair/mokume2_Auto2'  のファイルが見つかりません
+[2018.07.28-12.20.05:684][923]LoadErrors: Error: /Game/Bakaure/Battle/SMs/tyouriba/old_chair/mokume2_Mat_Auto2 : アセットのファイルが見つかりません /Game/SMs/tyouriba/old_chair/mokume2_Auto2
+[2018.07.28-12.20.05:684][923]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/old_chair/mokume2_Auto2' が見つかりません
+[2018.07.28-12.20.05:684][923]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/tyouriba/old_chair/mokume2_Mat_Auto2.uasset のロード中にアセット '/Game/SMs/tyouriba/old_chair/mokume2_Auto2'  のファイルが見つかりません
+[2018.07.28-12.20.05:684][923]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/old_chair/mokume2_Auto2' が見つかりません
+[2018.07.28-12.20.05:684][923]LoadErrors: ロードに失敗しました /Game/SMs/tyouriba/old_chair/mokume2_Auto2.mokume2 参照元 MaterialExpressionTextureSample_0
+[2018.07.28-12.20.05:684][923]LogLinker: Warning: NULL のロード中にアセット '/Game/SMs/tyouriba/old_chair/mokume2_Auto2'  のファイルが見つかりません
+[2018.07.28-12.20.05:686][923]LogMaterial: Missing cached shader map for material mokume2_Mat, compiling. 
+[2018.07.28-12.20.05:686][923]LogMaterial: Warning: D:\MunakataToshizo\BakaureGodGame\Content\Bakaure\Battle\SMs\tyouriba\old_chair\mokume2_Mat_Auto2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.28-12.20.05:686][923]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.28-12.20.20:351][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.21.26:881][353]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.07.28-12.23.50:937][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-12.23.51:718][ 59]LogSavePackage: Save=748.70ms
+[2018.07.28-12.23.51:718][ 59]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Battle_map_Auto71B3A39E74ADD69CD2FB906A267C790D7.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto7.umap'
+[2018.07.28-12.23.51:723][ 59]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto7.umap
+[2018.07.28-12.23.51:731][ 59]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bakaure/Battle/maps/Battle_map' took 0.782
+[2018.07.28-12.23.51:732][ 59]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.782
+[2018.07.28-12.23.51:765][ 59]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bakaure/Battle/SMs/tyouriba/bakethu/mokume_2016-04-19-17-10-54_Mat] ([1] browsable assets)...
+[2018.07.28-12.23.51:789][ 59]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Bakaure/Battle/SMs/tyouriba/bakethu/mokume_2016-04-19-17-10-54_Mat.mokume_2016-04-19-17-10-54_Mat]
+[2018.07.28-12.23.51:789][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bakaure/Battle/SMs/tyouriba/bakethu/mokume_2016-04-19-17-10-54_Mat]
+[2018.07.28-12.23.51:810][ 59]LogSavePackage: Save=18.28ms
+[2018.07.28-12.23.51:810][ 59]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/mokume_2016-04-19-17-10-54_Mat_A53AF134943C55E02A5C053A97E966571.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/SMs/tyouriba/bakethu/mokume_2016-04-19-17-10-54_Mat_Auto7.uasset'
+[2018.07.28-12.23.51:812][ 59]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/SMs/tyouriba/bakethu/mokume_2016-04-19-17-10-54_Mat_Auto7.uasset
+[2018.07.28-12.23.51:812][ 59]LogFileHelpers: Auto-saving content packages took 0.071
+[2018.07.28-12.24.49:588][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.24.52:744][981]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.28-12.24.54:347][110]LogMaterial: Missing cached shader map for material washi_Mat, compiling. 
+[2018.07.28-12.24.54:361][110]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-12.24.54:361][110]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-12.24.54:361][110]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-12.25.01:397][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-12.25.42:941][612]Cmd: EDIT COPY
+[2018.07.28-12.25.43:265][650]Cmd: EDIT PASTE
+[2018.07.28-12.25.51:481][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-12.25.53:888][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.25.53:889][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-12.25.53:889][872]PIE: New page: PIEセッション: Battle_map (2018/07/29 6:25:53)
+[2018.07.28-12.25.53:889][872]LogPlayLevel: Creating play world package: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map
+[2018.07.28-12.25.53:906][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016766s)
+[2018.07.28-12.25.53:906][872]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.28-12.25.53:907][872]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2018.07.28-12.25.53:907][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bakaure/Battle/maps/Battle_map.Battle_map to /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map (0.017737s)
+[2018.07.28-12.25.53:926][872]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-12.25.53:938][872]LogInit: FAudioDevice initialized.
+[2018.07.28-12.25.53:944][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-12.25.53:994][872]LogLoad: Game class is 'TitleGameMode_C'
+[2018.07.28-12.25.53:996][872]LogWorld: Bringing World /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map up for play (max tick rate 0) at 2018.07.28-21.25.53
+[2018.07.28-12.25.53:996][872]LogWorld: Bringing up level for play took: 0.001408
+[2018.07.28-12.25.53:999][872]PIE: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map 0.733のプレイ イン エディタの開始時間
+[2018.07.28-12.25.54:000][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.27.37:111][186]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.27.37:116][186]LogSlate: Window 'Bakaure ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2018.07.28-12.27.37:151][186]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.27.38:919][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.27.52:173][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (genkan_SM2)
+[2018.07.28-12.27.53:909][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.28.00:921][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/materials/washi" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/washi.uasset" SILENT=true
+[2018.07.28-12.28.01:132][978]LogSavePackage: Save=209.92ms
+[2018.07.28-12.28.01:132][978]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/washi73DB09AD458651DFF15B24A8C86C5058.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/washi.uasset'
+[2018.07.28-12.28.01:134][978]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/washi.uasset
+[2018.07.28-12.28.01:147][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/materials/washi_Mat" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/washi_Mat.uasset" SILENT=true
+[2018.07.28-12.28.01:159][978]LogSavePackage: Save=10.45ms
+[2018.07.28-12.28.01:159][978]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/washi_Mat525804DA4D443F09553708A8DAF4DD8C.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/washi_Mat.uasset'
+[2018.07.28-12.28.01:160][978]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/washi_Mat.uasset
+[2018.07.28-12.28.04:064][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (genkan_SM)
+[2018.07.28-12.28.04:731][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (genkan_SM2)
+[2018.07.28-12.28.09:075][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.28.40:736][539]LogLinker: Warning: ファイル '/Game/takahasi/material/tatamiO33_Mat' が見つかりません
+[2018.07.28-12.28.40:736][539]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/takahasi/material/tatamiO33_Mat_Inst.uasset のロード中にアセット '/Game/takahasi/material/tatamiO33_Mat'  のファイルが見つかりません
+[2018.07.28-12.28.40:736][539]LoadErrors: Error: /Game/Bakaure/Battle/takahasi/material/tatamiO33_Mat_Inst : アセットのファイルが見つかりません /Game/takahasi/material/tatamiO33_Mat
+[2018.07.28-12.28.40:736][539]LogLinker: Warning: ファイル '/Game/takahasi/material/tatamiO33_Mat' が見つかりません
+[2018.07.28-12.28.40:736][539]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/takahasi/material/tatamiO33_Mat_Inst.uasset のロード中にアセット '/Game/takahasi/material/tatamiO33_Mat'  のファイルが見つかりません
+[2018.07.28-12.28.40:737][539]LogLinker: Warning: ファイル '/Game/takahasi/material/tatamiO33_Mat' が見つかりません
+[2018.07.28-12.28.40:737][539]LoadErrors: ロードに失敗しました /Game/takahasi/material/tatamiO33_Mat.tatamiO33_Mat 参照元 tatamiO33_Mat_Inst
+[2018.07.28-12.28.40:737][539]LogLinker: Warning: NULL のロード中にアセット '/Game/takahasi/material/tatamiO33_Mat'  のファイルが見つかりません
+[2018.07.28-12.28.46:237][176]LogLinker: Warning: ファイル '/Game/takahasi/material/tatamiO33' が見つかりません
+[2018.07.28-12.28.46:237][176]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/takahasi/material/tatamiO33_Mat.uasset のロード中にアセット '/Game/takahasi/material/tatamiO33'  のファイルが見つかりません
+[2018.07.28-12.28.46:237][176]LoadErrors: Error: /Game/Bakaure/Battle/takahasi/material/tatamiO33_Mat : アセットのファイルが見つかりません /Game/takahasi/material/tatamiO33
+[2018.07.28-12.28.46:237][176]LogLinker: Warning: ファイル '/Game/takahasi/material/tatamiO33' が見つかりません
+[2018.07.28-12.28.46:237][176]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/takahasi/material/tatamiO33_Mat.uasset のロード中にアセット '/Game/takahasi/material/tatamiO33'  のファイルが見つかりません
+[2018.07.28-12.28.46:238][176]LogLinker: Warning: ファイル '/Game/takahasi/material/tatamiO33' が見つかりません
+[2018.07.28-12.28.46:238][176]LoadErrors: ロードに失敗しました /Game/takahasi/material/tatamiO33.tatamiO33 参照元 MaterialExpressionTextureSample_0
+[2018.07.28-12.28.46:238][176]LogLinker: Warning: NULL のロード中にアセット '/Game/takahasi/material/tatamiO33'  のファイルが見つかりません
+[2018.07.28-12.28.46:240][176]LogMaterial: Missing cached shader map for material tatamiO33_Mat, compiling. 
+[2018.07.28-12.28.46:241][176]LogMaterial: Warning: D:\MunakataToshizo\BakaureGodGame\Content\Bakaure\Battle\takahasi\material\tatamiO33_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.28-12.28.46:241][176]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.28-12.28.46:242][176]LogLinker: Warning: ファイル '/Game/StarterContent/Textures/T_Metal_Steel_D' が見つかりません
+[2018.07.28-12.28.46:242][176]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/takahasi/material/tatamifuti_Mat.uasset のロード中にアセット '/Game/StarterContent/Textures/T_Metal_Steel_D'  のファイルが見つかりません
+[2018.07.28-12.28.46:242][176]LoadErrors: Error: /Game/Bakaure/Battle/takahasi/material/tatamifuti_Mat : アセットのファイルが見つかりません /Game/StarterContent/Textures/T_Metal_Steel_D
+[2018.07.28-12.28.46:242][176]LogLinker: Warning: ファイル '/Game/StarterContent/Textures/T_Metal_Steel_D' が見つかりません
+[2018.07.28-12.28.46:242][176]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/takahasi/material/tatamifuti_Mat.uasset のロード中にアセット '/Game/StarterContent/Textures/T_Metal_Steel_D'  のファイルが見つかりません
+[2018.07.28-12.28.46:242][176]LogLinker: Warning: ファイル '/Game/StarterContent/Textures/T_Metal_Steel_D' が見つかりません
+[2018.07.28-12.28.46:242][176]LoadErrors: ロードに失敗しました /Game/StarterContent/Textures/T_Metal_Steel_D.T_Metal_Steel_D 参照元 MaterialExpressionTextureSample_5
+[2018.07.28-12.28.46:243][176]LogLinker: Warning: NULL のロード中にアセット '/Game/StarterContent/Textures/T_Metal_Steel_D'  のファイルが見つかりません
+[2018.07.28-12.28.46:244][176]LogMaterial: Missing cached shader map for material tatamifuti_Mat, compiling. 
+[2018.07.28-12.28.46:245][176]LogMaterial: Warning: D:\MunakataToshizo\BakaureGodGame\Content\Bakaure\Battle\takahasi\material\tatamifuti_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.28-12.28.46:245][176]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.28-12.28.52:791][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/materials/tatamiO33_Mat_Inst" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/tatamiO33_Mat_Inst.uasset" SILENT=true
+[2018.07.28-12.28.52:801][951]LogSavePackage: Save=9.55ms
+[2018.07.28-12.28.52:801][951]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/tatamiO33_Mat_InstBD073EEC475B274B4CB741A5E08BE977.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/tatamiO33_Mat_Inst.uasset'
+[2018.07.28-12.28.52:803][951]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/tatamiO33_Mat_Inst.uasset
+[2018.07.28-12.28.52:817][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/materials/tatamiO33_Mat" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/tatamiO33_Mat.uasset" SILENT=true
+[2018.07.28-12.28.52:830][951]LogSavePackage: Save=11.58ms
+[2018.07.28-12.28.52:830][951]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/tatamiO33_Mat367B931D4C3D27929021EDB9424540EA.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/tatamiO33_Mat.uasset'
+[2018.07.28-12.28.52:831][951]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/tatamiO33_Mat.uasset
+[2018.07.28-12.28.52:837][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/materials/tatamiO33" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/tatamiO33.uasset" SILENT=true
+[2018.07.28-12.28.52:842][951]LogSavePackage: Save=3.86ms
+[2018.07.28-12.28.52:842][951]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/tatamiO33C5E50E6748C07682964A18BF05063FD8.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/tatamiO33.uasset'
+[2018.07.28-12.28.52:843][951]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/tatamiO33.uasset
+[2018.07.28-12.28.52:857][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/materials/tatamifuti_Mat" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/tatamifuti_Mat.uasset" SILENT=true
+[2018.07.28-12.28.52:869][951]LogSavePackage: Save=10.62ms
+[2018.07.28-12.28.52:869][951]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/tatamifuti_MatECEAD8DF416D058ED5E3669440AF548A.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/tatamifuti_Mat.uasset'
+[2018.07.28-12.28.52:871][951]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/tatamifuti_Mat.uasset
+[2018.07.28-12.29.11:367][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/materials/mokume4_Mat" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/mokume4_Mat.uasset" SILENT=true
+[2018.07.28-12.29.11:380][ 77]LogSavePackage: Save=11.74ms
+[2018.07.28-12.29.11:380][ 77]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/mokume4_Mat95672E4941F1C52BA1E02AA57A6DDC7B.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/mokume4_Mat.uasset'
+[2018.07.28-12.29.11:381][ 77]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/mokume4_Mat.uasset
+[2018.07.28-12.29.11:392][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/materials/mokume4" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/mokume4.uasset" SILENT=true
+[2018.07.28-12.29.11:427][ 77]LogSavePackage: Save=34.13ms
+[2018.07.28-12.29.11:427][ 77]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/mokume495CEDA7E45796B562D1A4F95145A92EA.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/mokume4.uasset'
+[2018.07.28-12.29.11:428][ 77]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/materials/mokume4.uasset
+[2018.07.28-12.35.21:094][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.28-12.35.47:799][377]LogSavePackage: Save=82.03ms
+[2018.07.28-12.35.47:799][377]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Battle_map_Auto817A8B53A4654BF3B32B8FFBC446A88BC.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto8.umap'
+[2018.07.28-12.35.47:800][377]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto8.umap
+[2018.07.28-12.35.47:801][377]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bakaure/Battle/maps/Battle_map' took 0.104
+[2018.07.28-12.35.47:801][377]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.104
+[2018.07.28-12.45.34:863][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.47.16:439][737]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54' が見つかりません
+[2018.07.28-12.47.16:439][737]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/syouzi_SM.uasset のロード中にアセット '/Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54'  のファイルが見つかりません
+[2018.07.28-12.47.16:439][737]LoadErrors: Error: /Game/Bakaure/Battle/SMs/syouzi/syouzi_SM : アセットのファイルが見つかりません /Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54
+[2018.07.28-12.47.16:439][737]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat' が見つかりません
+[2018.07.28-12.47.16:439][737]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/syouzi_SM.uasset のロード中にアセット '/Game/syouzi/washi_Mat'  のファイルが見つかりません
+[2018.07.28-12.47.16:439][737]LoadErrors: Error: /Game/Bakaure/Battle/SMs/syouzi/syouzi_SM : アセットのファイルが見つかりません /Game/syouzi/washi_Mat
+[2018.07.28-12.47.16:439][737]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat2' が見つかりません
+[2018.07.28-12.47.16:440][737]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/syouzi_SM.uasset のロード中にアセット '/Game/syouzi/washi_Mat2'  のファイルが見つかりません
+[2018.07.28-12.47.16:440][737]LoadErrors: Error: /Game/Bakaure/Battle/SMs/syouzi/syouzi_SM : アセットのファイルが見つかりません /Game/syouzi/washi_Mat2
+[2018.07.28-12.47.16:440][737]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54' が見つかりません
+[2018.07.28-12.47.16:440][737]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/syouzi_SM.uasset のロード中にアセット '/Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54'  のファイルが見つかりません
+[2018.07.28-12.47.16:440][737]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat' が見つかりません
+[2018.07.28-12.47.16:440][737]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/syouzi_SM.uasset のロード中にアセット '/Game/syouzi/washi_Mat'  のファイルが見つかりません
+[2018.07.28-12.47.16:440][737]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat2' が見つかりません
+[2018.07.28-12.47.16:440][737]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/syouzi_SM.uasset のロード中にアセット '/Game/syouzi/washi_Mat2'  のファイルが見つかりません
+[2018.07.28-12.47.16:441][737]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54' が見つかりません
+[2018.07.28-12.47.16:441][737]LoadErrors: ロードに失敗しました /Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54.mokume_Mat 参照元 syouzi_SM
+[2018.07.28-12.47.16:441][737]LogLinker: Warning: NULL のロード中にアセット '/Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54'  のファイルが見つかりません
+[2018.07.28-12.47.16:441][737]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat' が見つかりません
+[2018.07.28-12.47.16:441][737]LoadErrors: ロードに失敗しました /Game/syouzi/washi_Mat.washi_Mat 参照元 syouzi_SM
+[2018.07.28-12.47.16:441][737]LogLinker: Warning: NULL のロード中にアセット '/Game/syouzi/washi_Mat'  のファイルが見つかりません
+[2018.07.28-12.47.16:441][737]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat2' が見つかりません
+[2018.07.28-12.47.16:441][737]LoadErrors: ロードに失敗しました /Game/syouzi/washi_Mat2.washi_Mat2 参照元 syouzi_SM
+[2018.07.28-12.47.16:441][737]LogLinker: Warning: NULL のロード中にアセット '/Game/syouzi/washi_Mat2'  のファイルが見つかりません
+[2018.07.28-12.47.16:442][737]LogStaticMesh: スタティックメッシュ syouzi_SM をビルド中...
+[2018.07.28-12.47.16:643][737]LogStaticMesh: Built static mesh [0.20s] /Game/Bakaure/Battle/SMs/syouzi/syouzi_SM.syouzi_SM
+[2018.07.28-12.47.16:665][737]LogActorFactory: Actor Factory created syouzi_SM
+[2018.07.28-12.47.18:778][965]LogActorFactory: Actor Factory created syouzi_SM
+[2018.07.28-12.47.25:245][714]Cmd: DELETE
+[2018.07.28-12.47.25:245][714]Cmd: ACTOR DELETE
+[2018.07.28-12.47.25:247][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.28-12.47.25:257][714]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.07.28-12.47.37:528][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tatami_SM)
+[2018.07.28-12.47.41:557][606]Cmd: DELETE
+[2018.07.28-12.47.41:557][606]Cmd: ACTOR DELETE
+[2018.07.28-12.47.41:559][606]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.07.28-12.47.41:569][606]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.07.28-12.47.46:145][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.47.46:604][208]LogActorFactory: Actor Factory created syouzi_SM
+[2018.07.28-12.47.48:691][458]LogActorFactory: Actor Factory created syouzi_SM
+[2018.07.28-12.47.59:909][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.48.06:930][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.48.14:676][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.48.29:998][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.50.03:888][715]LogSavePackage: Save=91.82ms
+[2018.07.28-12.50.03:888][715]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Battle_map_Auto908F0475A4BD4BAE1B3D8E0A33DCE9531.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto9.umap'
+[2018.07.28-12.50.03:889][715]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto9.umap
+[2018.07.28-12.50.03:890][715]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bakaure/Battle/maps/Battle_map' took 0.675
+[2018.07.28-12.50.03:890][715]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.675
+[2018.07.28-12.55.24:573][172]LogLinker: Warning: ファイル '/Game/syouzi/washi' が見つかりません
+[2018.07.28-12.55.24:574][172]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/washi_Mat2.uasset のロード中にアセット '/Game/syouzi/washi'  のファイルが見つかりません
+[2018.07.28-12.55.24:574][172]LoadErrors: Error: /Game/Bakaure/Battle/SMs/syouzi/washi_Mat2 : アセットのファイルが見つかりません /Game/syouzi/washi
+[2018.07.28-12.55.24:574][172]LogLinker: Warning: ファイル '/Game/syouzi/washi' が見つかりません
+[2018.07.28-12.55.24:574][172]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/washi_Mat2.uasset のロード中にアセット '/Game/syouzi/washi'  のファイルが見つかりません
+[2018.07.28-12.55.24:575][172]LogLinker: Warning: ファイル '/Game/syouzi/washi' が見つかりません
+[2018.07.28-12.55.24:575][172]LogLinker: Warning: NULL のロード中にアセット '/Game/syouzi/washi'  のファイルが見つかりません
+[2018.07.28-12.55.24:577][172]LogMaterial: Missing cached shader map for material washi_Mat2, compiling. 
+[2018.07.28-12.55.24:578][172]LogMaterial: Warning: D:\MunakataToshizo\BakaureGodGame\Content\Bakaure\Battle\SMs\syouzi\washi_Mat2.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.28-12.55.24:578][172]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.28-12.55.24:579][172]LogLinker: Warning: ファイル '/Game/syouzi/washi' が見つかりません
+[2018.07.28-12.55.24:580][172]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/washi_Mat.uasset のロード中にアセット '/Game/syouzi/washi'  のファイルが見つかりません
+[2018.07.28-12.55.24:580][172]LoadErrors: Error: /Game/Bakaure/Battle/SMs/syouzi/washi_Mat : アセットのファイルが見つかりません /Game/syouzi/washi
+[2018.07.28-12.55.24:580][172]LogLinker: Warning: ファイル '/Game/syouzi/washi' が見つかりません
+[2018.07.28-12.55.24:580][172]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/washi_Mat.uasset のロード中にアセット '/Game/syouzi/washi'  のファイルが見つかりません
+[2018.07.28-12.55.24:580][172]LogLinker: Warning: ファイル '/Game/syouzi/washi' が見つかりません
+[2018.07.28-12.55.24:581][172]LogLinker: Warning: NULL のロード中にアセット '/Game/syouzi/washi'  のファイルが見つかりません
+[2018.07.28-12.55.24:583][172]LogMaterial: Missing cached shader map for material washi_Mat, compiling. 
+[2018.07.28-12.55.24:584][172]LogMaterial: Warning: D:\MunakataToshizo\BakaureGodGame\Content\Bakaure\Battle\SMs\syouzi\washi_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.07.28-12.55.24:584][172]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.07.28-12.55.29:484][475]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.28-12.55.31:028][647]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54' が見つかりません
+[2018.07.28-12.55.31:028][647]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/syouzi_SM2.uasset のロード中にアセット '/Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54'  のファイルが見つかりません
+[2018.07.28-12.55.31:028][647]LoadErrors: Error: /Game/Bakaure/Battle/SMs/syouzi/syouzi_SM2 : アセットのファイルが見つかりません /Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54
+[2018.07.28-12.55.31:028][647]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat' が見つかりません
+[2018.07.28-12.55.31:029][647]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/syouzi_SM2.uasset のロード中にアセット '/Game/syouzi/washi_Mat'  のファイルが見つかりません
+[2018.07.28-12.55.31:029][647]LoadErrors: Error: /Game/Bakaure/Battle/SMs/syouzi/syouzi_SM2 : アセットのファイルが見つかりません /Game/syouzi/washi_Mat
+[2018.07.28-12.55.31:029][647]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat2' が見つかりません
+[2018.07.28-12.55.31:029][647]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/syouzi_SM2.uasset のロード中にアセット '/Game/syouzi/washi_Mat2'  のファイルが見つかりません
+[2018.07.28-12.55.31:029][647]LoadErrors: Error: /Game/Bakaure/Battle/SMs/syouzi/syouzi_SM2 : アセットのファイルが見つかりません /Game/syouzi/washi_Mat2
+[2018.07.28-12.55.31:029][647]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54' が見つかりません
+[2018.07.28-12.55.31:029][647]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/syouzi_SM2.uasset のロード中にアセット '/Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54'  のファイルが見つかりません
+[2018.07.28-12.55.31:030][647]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat' が見つかりません
+[2018.07.28-12.55.31:030][647]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/syouzi_SM2.uasset のロード中にアセット '/Game/syouzi/washi_Mat'  のファイルが見つかりません
+[2018.07.28-12.55.31:030][647]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat2' が見つかりません
+[2018.07.28-12.55.31:030][647]LogLinker: Warning: D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/SMs/syouzi/syouzi_SM2.uasset のロード中にアセット '/Game/syouzi/washi_Mat2'  のファイルが見つかりません
+[2018.07.28-12.55.31:031][647]LogLinker: Warning: ファイル '/Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54' が見つかりません
+[2018.07.28-12.55.31:031][647]LoadErrors: ロードに失敗しました /Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54.mokume_Mat 参照元 syouzi_SM2
+[2018.07.28-12.55.31:031][647]LogLinker: Warning: NULL のロード中にアセット '/Game/SMs/tyouriba/bakethu/mokume_Mat_2016-04-19-17-10-54'  のファイルが見つかりません
+[2018.07.28-12.55.31:031][647]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat' が見つかりません
+[2018.07.28-12.55.31:031][647]LoadErrors: ロードに失敗しました /Game/syouzi/washi_Mat.washi_Mat 参照元 syouzi_SM2
+[2018.07.28-12.55.31:031][647]LogLinker: Warning: NULL のロード中にアセット '/Game/syouzi/washi_Mat'  のファイルが見つかりません
+[2018.07.28-12.55.31:031][647]LogLinker: Warning: ファイル '/Game/syouzi/washi_Mat2' が見つかりません
+[2018.07.28-12.55.31:031][647]LoadErrors: ロードに失敗しました /Game/syouzi/washi_Mat2.washi_Mat2 参照元 syouzi_SM2
+[2018.07.28-12.55.31:031][647]LogLinker: Warning: NULL のロード中にアセット '/Game/syouzi/washi_Mat2'  のファイルが見つかりません
+[2018.07.28-12.55.31:148][659]LogActorFactory: Actor Factory created syouzi_SM2
+[2018.07.28-12.55.33:598][923]LogActorFactory: Actor Factory created syouzi_SM2
+[2018.07.28-12.55.34:004][971]LogActorFactory: Actor Factory created syouzi_SM2
+[2018.07.28-12.55.39:390][584]Cmd: TRANSACTION UNDO
+[2018.07.28-12.55.39:390][584]LogEditorTransaction: Undo 複数のアクタを作成
+[2018.07.28-12.55.44:123][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-12.55.44:750][180]LogMaterial: Missing cached shader map for material washi_Mat, compiling. 
+[2018.07.28-12.55.44:765][180]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.07.28-12.55.44:765][180]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.07.28-12.55.44:765][180]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.07.28-12.57.48:953][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-12.57.52:476][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.57.52:476][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-12.57.52:476][469]PIE: New page: PIEセッション: Battle_map (2018/07/29 6:57:52)
+[2018.07.28-12.57.52:476][469]LogPlayLevel: Creating play world package: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map
+[2018.07.28-12.57.52:497][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020315s)
+[2018.07.28-12.57.52:498][469]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.28-12.57.52:499][469]LogPlayLevel: PIE: World Init took: (0.001987s)
+[2018.07.28-12.57.52:499][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bakaure/Battle/maps/Battle_map.Battle_map to /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map (0.022569s)
+[2018.07.28-12.57.52:517][469]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.28-12.57.52:531][469]LogInit: FAudioDevice initialized.
+[2018.07.28-12.57.52:538][469]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-12.57.52:592][469]LogLoad: Game class is 'TitleGameMode_C'
+[2018.07.28-12.57.52:595][469]LogWorld: Bringing World /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map.Battle_map up for play (max tick rate 0) at 2018.07.28-21.57.52
+[2018.07.28-12.57.52:595][469]LogWorld: Bringing up level for play took: 0.001601
+[2018.07.28-12.57.52:600][469]PIE: /Game/Bakaure/Battle/maps/UEDPIE_0_Battle_map -0.668のプレイ イン エディタの開始時間
+[2018.07.28-12.57.52:600][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.58.19:709][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-12.58.19:714][701]LogSlate: Window 'Bakaure ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2018.07.28-12.58.19:745][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel' has LevelScriptBlueprint '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map' with GeneratedClass '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' with ClassGeneratedBy '/Game/Bakaure/Battle/maps/Battle_map.Battle_map:PersistentLevel.Battle_map'
+[2018.07.28-13.00.32:810][150]LogSavePackage: Save=169.66ms
+[2018.07.28-13.00.32:810][150]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Battle_map_Auto08353E43E4194C256545C58BBA9B06799.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto0.umap'
+[2018.07.28-13.00.32:811][150]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/maps/Battle_map_Auto0.umap
+[2018.07.28-13.00.32:813][150]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bakaure/Battle/maps/Battle_map' took 0.923
+[2018.07.28-13.00.32:813][150]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.923
+[2018.07.28-13.00.32:816][150]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bakaure/Battle/SMs/syouzi/washi_Mat] ([1] browsable assets)...
+[2018.07.28-13.00.32:835][150]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Bakaure/Battle/SMs/syouzi/washi_Mat.washi_Mat]
+[2018.07.28-13.00.32:836][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bakaure/Battle/SMs/syouzi/washi_Mat]
+[2018.07.28-13.00.32:852][150]LogSavePackage: Save=14.80ms
+[2018.07.28-13.00.32:852][150]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/washi_Mat_Auto07C6DAF4D475817A2F85AF5960FD03279.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/SMs/syouzi/washi_Mat_Auto0.uasset'
+[2018.07.28-13.00.32:853][150]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Saved/Autosaves/Game/Bakaure/Battle/SMs/syouzi/washi_Mat_Auto0.uasset
+[2018.07.28-13.00.32:853][150]LogFileHelpers: Auto-saving content packages took 0.038
+[2018.07.28-13.13.17:077][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-13.13.18:063][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)

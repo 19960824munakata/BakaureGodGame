@@ -1,0 +1,818 @@
+﻿Log file open, 07/08/18 17:58:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Bakaure
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2058457525) SRandInit(-2058457525).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.643546
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.971s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DBYUSSIPC (192.168.1.14:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.08-08.58.34:329][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.08-08.58.34:329][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.08-08.58.34:406][  0]LogInit: Computer: DBYUSSIPC
+[2018.07.08-08.58.34:406][  0]LogInit: User: gityo
+[2018.07.08-08.58.34:406][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.08-08.58.34:406][  0]LogInit: High frequency timer resolution =3.328128 MHz
+[2018.07.08-08.58.34:407][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.08-08.58.34:407][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.08-08.58.34:407][  0]LogMemory: Process Physical Memory: 274.18 MB used, 274.18 MB peak
+[2018.07.08-08.58.34:407][  0]LogMemory: Process Virtual Memory: 269.88 MB used, 269.88 MB peak
+[2018.07.08-08.58.34:407][  0]LogMemory: Physical Memory: 4590.89 MB used,  11738.69 MB free, 16329.58 MB total
+[2018.07.08-08.58.34:407][  0]LogMemory: Virtual Memory: 4788.88 MB used,  11738.69 MB free, 134217728.00 MB total
+[2018.07.08-08.58.34:644][  0]LogInit: Using OS detected language (ja-JP).
+[2018.07.08-08.58.34:644][  0]LogInit: Using OS detected locale (ja-JP).
+[2018.07.08-08.58.34:672][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2018.07.08-08.58.35:055][  0]LogStreaming: Display: Took  0.410s to EndInitTextLocalization.
+[2018.07.08-08.58.35:056][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.08-08.58.35:130][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.08-08.58.35:130][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.08-08.58.36:133][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.08-08.58.36:185][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.07.08-08.58.36:185][  0]LogD3D11RHI:       6052/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.08-08.58.36:187][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.08-08.58.36:187][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.08-08.58.36:187][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.08-08.58.36:192][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.08-08.58.36:192][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.08-08.58.36:192][  0]LogWindows: EnumDisplayDevices:
+[2018.07.08-08.58.36:192][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.07.08-08.58.36:192][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.07.08-08.58.36:192][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.07.08-08.58.36:193][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.07.08-08.58.36:193][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.08-08.58.36:193][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.07.08-08.58.36:193][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.08-08.58.36:193][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.08-08.58.36:193][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.07.08-08.58.36:227][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.08-08.58.36:227][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.08-08.58.36:228][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.08-08.58.36:267][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.08-08.58.36:273][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (D:/MunakataToshizo/BakaureGodGame/Intermediate/Shaders/WorkingDirectory/15392/).
+[2018.07.08-08.58.36:273][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gityo/AppData/Local/Temp/UnrealShaderWorkingDir/A9083A25479BBD66507930B5070DD436/'.
+[2018.07.08-08.58.37:126][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.08-08.58.37:139][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.08-08.58.37:153][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.08-08.58.37:165][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.08-08.58.37:182][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.08-08.58.37:195][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.08-08.58.37:209][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.08-08.58.37:221][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.08-08.58.37:228][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.08-08.58.37:240][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.08-08.58.37:251][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.08-08.58.37:261][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.08-08.58.37:273][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.08-08.58.37:284][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.08-08.58.37:294][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.08-08.58.37:316][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.08-08.58.37:316][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.08-08.58.37:331][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.08-08.58.37:332][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.08-08.58.37:388][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.08-08.58.37:397][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.08-08.58.37:408][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.08-08.58.37:419][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.08-08.58.37:430][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.08-08.58.37:446][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.08-08.58.37:446][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.08-08.58.37:793][  0]LogXGEController: Cleaning working directory: C:/Users/gityo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.08-08.58.37:794][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.08-08.58.37:795][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.08-08.58.37:795][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.08-08.58.39:327][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.08-08.58.39:665][  0]LogDerivedDataCache: Loaded boot cache 0.34s 74MB C:/Users/gityo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.08-08.58.39:666][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gityo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.08-08.58.39:666][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/MunakataToshizo/BakaureGodGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.08-08.58.39:666][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.08-08.58.39:666][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/MunakataToshizo/BakaureGodGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.08-08.58.39:666][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.08-08.58.39:695][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.08-08.58.39:708][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gityo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.08-08.58.39:708][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.08-08.58.39:708][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.08-08.58.39:720][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.08-08.58.39:724][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.08-08.58.39:731][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.08-08.58.39:731][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.08-08.58.42:039][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.07.08-08.58.42:419][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.08-08.58.42:697][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.08-08.58.42:701][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.08-08.58.42:701][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.08-08.58.42:701][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.08-08.58.42:701][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.08-08.58.42:701][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.08-08.58.42:761][  0]LogNetVersion: Bakaure , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2708331183)
+[2018.07.08-08.58.43:452][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.082975 seconds
+[2018.07.08-08.58.43:458][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.08-08.58.43:458][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.07.08-08.58.43:458][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.08-08.58.49:545][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.08-08.58.49:581][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.08-08.58.50:057][  0]SourceControl: ソースコントロールは無効です
+[2018.07.08-08.58.50:058][  0]SourceControl: ソースコントロールは無効です
+[2018.07.08-08.58.50:082][  0]SourceControl: ソースコントロールは無効です
+[2018.07.08-08.58.50:098][  0]SourceControl: ソースコントロールは無効です
+[2018.07.08-08.58.50:707][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.08-08.58.50:870][  0]LogOcInput: OculusInput pre-init called
+[2018.07.08-08.58.51:000][  0]LogEngine: Initializing Engine...
+[2018.07.08-08.58.51:002][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.08-08.58.51:003][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.08-08.58.51:003][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.08-08.58.51:222][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.08-08.58.51:241][  0]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.08-08.58.51:395][  0]LogInit: FAudioDevice initialized.
+[2018.07.08-08.58.51:484][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/gityo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.08-08.58.51:504][  0]LogInit: Texture streaming: Enabled
+[2018.07.08-08.58.51:534][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.08-08.58.51:558][  0]LogInit: Transaction tracking system initialized
+[2018.07.08-08.58.51:597][  0]BlueprintLog: New page: エディタの読み込み
+[2018.07.08-08.58.51:719][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2018.07.08-08.58.51:848][  0]LogConsoleResponse: Display: 
+[2018.07.08-08.58.52:063][  0]LogFileCache: Scanning file cache for directory 'D:/MunakataToshizo/BakaureGodGame/Content/' took 0.01s
+[2018.07.08-08.58.52:063][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.08-08.58.52:063][  0]LogCook: Display: Mobile HDR setting 0
+[2018.07.08-08.58.52:063][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.08-08.58.52:063][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.08-08.58.52:063][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.08-08.58.52:565][  0]SourceControl: ソースコントロールは無効です
+[2018.07.08-08.58.52:572][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.19/FeaturePacks/MobileStarterContent.upack)
+[2018.07.08-08.58.52:582][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.07.08-08.58.52:587][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Architecture/Floor_400x400.uasset"
+[2018.07.08-08.58.52:590][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset"
+[2018.07.08-08.58.52:593][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x200.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Architecture/Wall_400x200.uasset"
+[2018.07.08-08.58.52:595][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x300.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Architecture/Wall_400x300.uasset"
+[2018.07.08-08.58.52:598][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x400.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Architecture/Wall_400x400.uasset"
+[2018.07.08-08.58.52:600][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_500x500.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Architecture/Wall_500x500.uasset"
+[2018.07.08-08.58.52:603][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.07.08-08.58.52:605][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.07.08-08.58.52:607][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.07.08-08.58.52:610][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.07.08-08.58.52:613][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse01.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Collapse01.uasset"
+[2018.07.08-08.58.52:618][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse02.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Collapse02.uasset"
+[2018.07.08-08.58.52:620][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse_Cue.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Collapse_Cue.uasset"
+[2018.07.08-08.58.52:624][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion01.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Explosion01.uasset"
+[2018.07.08-08.58.52:629][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion02.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Explosion02.uasset"
+[2018.07.08-08.58.52:641][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion_Cue.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Explosion_Cue.uasset"
+[2018.07.08-08.58.52:647][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire01.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Fire01.uasset"
+[2018.07.08-08.58.52:649][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire01_Cue.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Fire01_Cue.uasset"
+[2018.07.08-08.58.52:655][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset"
+[2018.07.08-08.58.52:657][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.07.08-08.58.52:661][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light01.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Light01.uasset"
+[2018.07.08-08.58.52:663][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light01_Cue.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Light01_Cue.uasset"
+[2018.07.08-08.58.52:668][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light02.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Light02.uasset"
+[2018.07.08-08.58.52:670][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light02_Cue.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Light02_Cue.uasset"
+[2018.07.08-08.58.52:675][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Smoke01.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Smoke01.uasset"
+[2018.07.08-08.58.52:677][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset"
+[2018.07.08-08.58.52:685][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.07.08-08.58.52:699][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Birds01.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Starter_Birds01.uasset"
+[2018.07.08-08.58.52:727][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Music01.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Starter_Music01.uasset"
+[2018.07.08-08.58.52:730][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.07.08-08.58.52:744][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Wind05.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Starter_Wind05.uasset"
+[2018.07.08-08.58.52:760][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Wind06.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Starter_Wind06.uasset"
+[2018.07.08-08.58.52:769][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Steam01.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Steam01.uasset"
+[2018.07.08-08.58.52:773][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Steam01_Cue.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Audio/Steam01_Cue.uasset"
+[2018.07.08-08.58.52:778][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.07.08-08.58.52:782][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.07.08-08.58.52:785][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.07.08-08.58.52:789][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.07.08-08.58.52:792][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.07.08-08.58.52:798][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.07.08-08.58.52:808][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/Minimal_Default.umap" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Maps/Minimal_Default.umap"
+[2018.07.08-08.58.52:818][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.07.08-08.58.52:846][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/StarterMap.umap" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Maps/StarterMap.umap"
+[2018.07.08-08.58.52:886][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.07.08-08.58.52:891][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset"
+[2018.07.08-08.58.52:895][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset"
+[2018.07.08-08.58.52:900][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.07.08-08.58.52:905][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.07.08-08.58.52:911][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.07.08-08.58.52:917][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.07.08-08.58.52:922][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.07.08-08.58.52:928][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.07.08-08.58.52:933][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.07.08-08.58.52:939][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.07.08-08.58.52:945][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.07.08-08.58.52:950][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.07.08-08.58.52:955][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.07.08-08.58.52:959][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.07.08-08.58.52:964][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.07.08-08.58.52:968][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Glass.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Glass.uasset"
+[2018.07.08-08.58.52:973][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset"
+[2018.07.08-08.58.52:978][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.07.08-08.58.52:984][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset"
+[2018.07.08-08.58.52:989][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.07.08-08.58.52:993][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.07.08-08.58.52:998][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.07.08-08.58.53:003][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset"
+[2018.07.08-08.58.53:007][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset"
+[2018.07.08-08.58.53:013][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset"
+[2018.07.08-08.58.53:017][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset"
+[2018.07.08-08.58.53:023][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.07.08-08.58.53:027][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.07.08-08.58.53:032][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.07.08-08.58.53:037][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset"
+[2018.07.08-08.58.53:044][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.07.08-08.58.53:049][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.07.08-08.58.53:055][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.07.08-08.58.53:059][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset"
+[2018.07.08-08.58.53:065][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Water_Lake.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Water_Lake.uasset"
+[2018.07.08-08.58.53:070][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset"
+[2018.07.08-08.58.53:075][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.07.08-08.58.53:080][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.07.08-08.58.53:086][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset"
+[2018.07.08-08.58.53:091][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset"
+[2018.07.08-08.58.53:096][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.07.08-08.58.53:100][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.07.08-08.58.53:106][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Explosion.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/P_Explosion.uasset"
+[2018.07.08-08.58.53:113][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Fire.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/P_Fire.uasset"
+[2018.07.08-08.58.53:117][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Smoke.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/P_Smoke.uasset"
+[2018.07.08-08.58.53:122][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Sparks.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/P_Sparks.uasset"
+[2018.07.08-08.58.53:126][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset"
+[2018.07.08-08.58.53:131][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.07.08-08.58.53:135][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.07.08-08.58.53:141][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.07.08-08.58.53:145][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.07.08-08.58.53:149][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.07.08-08.58.53:153][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.07.08-08.58.53:158][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.07.08-08.58.53:162][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset"
+[2018.07.08-08.58.53:168][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/MaterialSphere.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/MaterialSphere.uasset"
+[2018.07.08-08.58.53:173][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Bush.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_Bush.uasset"
+[2018.07.08-08.58.53:180][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Chair.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_Chair.uasset"
+[2018.07.08-08.58.53:185][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_CornerFrame.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_CornerFrame.uasset"
+[2018.07.08-08.58.53:191][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Couch.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_Couch.uasset"
+[2018.07.08-08.58.53:197][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Door.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_Door.uasset"
+[2018.07.08-08.58.53:202][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_DoorFrame.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_DoorFrame.uasset"
+[2018.07.08-08.58.53:206][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_GlassWindow.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_GlassWindow.uasset"
+[2018.07.08-08.58.53:213][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.07.08-08.58.53:218][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.07.08-08.58.53:232][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.07.08-08.58.53:238][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_PillarFrame.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_PillarFrame.uasset"
+[2018.07.08-08.58.53:243][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset"
+[2018.07.08-08.58.53:249][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Rock.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_Rock.uasset"
+[2018.07.08-08.58.53:254][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Shelf.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_Shelf.uasset"
+[2018.07.08-08.58.53:258][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Stairs.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_Stairs.uasset"
+[2018.07.08-08.58.53:266][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Statue.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_Statue.uasset"
+[2018.07.08-08.58.53:274][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_TableRound.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_TableRound.uasset"
+[2018.07.08-08.58.53:279][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_WindowFrame.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/SM_WindowFrame.uasset"
+[2018.07.08-08.58.53:285][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Bush.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/Materials/M_Bush.uasset"
+[2018.07.08-08.58.53:290][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Chair.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/Materials/M_Chair.uasset"
+[2018.07.08-08.58.53:294][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Door.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/Materials/M_Door.uasset"
+[2018.07.08-08.58.53:299][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Frame.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/Materials/M_Frame.uasset"
+[2018.07.08-08.58.53:304][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset"
+[2018.07.08-08.58.53:309][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.07.08-08.58.53:313][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.07.08-08.58.53:318][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Rock.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/Materials/M_Rock.uasset"
+[2018.07.08-08.58.53:323][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset"
+[2018.07.08-08.58.53:327][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Statue.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/Materials/M_Statue.uasset"
+[2018.07.08-08.58.53:332][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.07.08-08.58.53:337][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset"
+[2018.07.08-08.58.53:342][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cone.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Cone.uasset"
+[2018.07.08-08.58.53:346][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cube.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Cube.uasset"
+[2018.07.08-08.58.53:351][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cylinder.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.07.08-08.58.53:357][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.07.08-08.58.53:361][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Pipe.uasset"
+[2018.07.08-08.58.53:367][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.07.08-08.58.53:372][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.07.08-08.58.53:376][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Plane.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Plane.uasset"
+[2018.07.08-08.58.53:381][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.07.08-08.58.53:388][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset"
+[2018.07.08-08.58.53:395][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Torus.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Torus.uasset"
+[2018.07.08-08.58.53:399][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Trim.uasset"
+[2018.07.08-08.58.53:406][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.07.08-08.58.53:414][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.07.08-08.58.53:419][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.07.08-08.58.53:429][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Tube.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Tube.uasset"
+[2018.07.08-08.58.53:433][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.07.08-08.58.53:439][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.07.08-08.58.53:445][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.07.08-08.58.53:459][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.07.08-08.58.53:473][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.07.08-08.58.53:486][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.07.08-08.58.53:497][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.07.08-08.58.53:511][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.07.08-08.58.53:526][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.07.08-08.58.53:543][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.07.08-08.58.53:557][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.07.08-08.58.53:573][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.07.08-08.58.53:586][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.07.08-08.58.53:599][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.07.08-08.58.53:612][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.07.08-08.58.53:626][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.07.08-08.58.53:631][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Burst_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Burst_M.uasset"
+[2018.07.08-08.58.53:637][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Bush_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Bush_D.uasset"
+[2018.07.08-08.58.53:642][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Bush_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Bush_N.uasset"
+[2018.07.08-08.58.53:647][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.07.08-08.58.53:651][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.07.08-08.58.53:658][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Chair_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Chair_M.uasset"
+[2018.07.08-08.58.53:667][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Chair_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Chair_N.uasset"
+[2018.07.08-08.58.53:672][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.07.08-08.58.53:686][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.07.08-08.58.53:693][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.07.08-08.58.53:709][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.07.08-08.58.53:718][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.07.08-08.58.53:728][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.07.08-08.58.53:739][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.07.08-08.58.53:752][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.07.08-08.58.53:766][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.07.08-08.58.53:780][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.07.08-08.58.53:792][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.07.08-08.58.53:803][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.07.08-08.58.53:818][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.07.08-08.58.53:831][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.07.08-08.58.53:841][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.07.08-08.58.53:853][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.07.08-08.58.53:863][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.07.08-08.58.53:867][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.07.08-08.58.53:876][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.07.08-08.58.53:881][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Door_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Door_M.uasset"
+[2018.07.08-08.58.53:888][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Door_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Door_N.uasset"
+[2018.07.08-08.58.53:892][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.07.08-08.58.53:902][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.07.08-08.58.53:908][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.07.08-08.58.53:914][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.07.08-08.58.53:919][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Frame_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Frame_M.uasset"
+[2018.07.08-08.58.53:925][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Frame_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Frame_N.uasset"
+[2018.07.08-08.58.53:928][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset"
+[2018.07.08-08.58.53:944][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.07.08-08.58.53:959][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.07.08-08.58.53:974][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.07.08-08.58.53:988][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.07.08-08.58.54:003][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.07.08-08.58.54:016][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.07.08-08.58.54:023][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Lamp_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Lamp_M.uasset"
+[2018.07.08-08.58.54:032][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Lamp_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Lamp_N.uasset"
+[2018.07.08-08.58.54:047][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_MacroVariation.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_MacroVariation.uasset"
+[2018.07.08-08.58.54:061][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.07.08-08.58.54:074][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.07.08-08.58.54:087][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.07.08-08.58.54:097][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.07.08-08.58.54:110][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.07.08-08.58.54:122][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.07.08-08.58.54:132][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.07.08-08.58.54:144][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.07.08-08.58.54:155][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.07.08-08.58.54:165][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset"
+[2018.07.08-08.58.54:175][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset"
+[2018.07.08-08.58.54:188][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.07.08-08.58.54:201][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.07.08-08.58.54:211][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.07.08-08.58.54:224][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.07.08-08.58.54:237][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.07.08-08.58.54:252][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.07.08-08.58.54:266][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.07.08-08.58.54:280][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.07.08-08.58.54:285][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Shelf_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Shelf_M.uasset"
+[2018.07.08-08.58.54:292][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Shelf_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Shelf_N.uasset"
+[2018.07.08-08.58.54:295][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.07.08-08.58.54:305][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.07.08-08.58.54:309][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.07.08-08.58.54:313][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Spark_Core.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Spark_Core.uasset"
+[2018.07.08-08.58.54:318][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Statue_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Statue_M.uasset"
+[2018.07.08-08.58.54:323][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Statue_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Statue_N.uasset"
+[2018.07.08-08.58.54:329][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_TableRound_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_TableRound_M.uasset"
+[2018.07.08-08.58.54:337][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_TableRound_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_TableRound_N.uasset"
+[2018.07.08-08.58.54:341][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.07.08-08.58.54:345][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.07.08-08.58.54:350][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.07.08-08.58.54:357][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.07.08-08.58.54:363][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.07.08-08.58.54:368][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.07.08-08.58.54:376][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Water_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Water_M.uasset"
+[2018.07.08-08.58.54:384][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Water_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Water_N.uasset"
+[2018.07.08-08.58.54:393][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.07.08-08.58.54:403][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.07.08-08.58.54:411][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.07.08-08.58.54:422][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.07.08-08.58.54:432][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.07.08-08.58.54:444][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.07.08-08.58.54:454][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.07.08-08.58.54:463][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.07.08-08.58.54:471][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.07.08-08.58.54:580][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.07.08-08.58.54:669][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MobileStarterContent/Architecture/Floor_400x400" FILE="D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.07.08-08.58.54:695][  0]LogSavePackage: Save=10.81ms
+[2018.07.08-08.58.54:695][  0]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Floor_400x400E68D3B95468D111C8E158CBFDD2128A0.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Architecture/Floor_400x400.uasset'
+[2018.07.08-08.58.54:701][  0]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/MobileStarterContent/Architecture/Floor_400x400.uasset
+[2018.07.08-08.58.54:701][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.07.08-08.58.54:702][  0]Cmd: MAP LOAD FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/title/Level/Title.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.08-08.58.54:703][  0]LightingResults: New page: ライティングのビルド
+[2018.07.08-08.58.54:708][  0]MapCheck: New page: マップをチェック
+[2018.07.08-08.58.54:708][  0]LightingResults: New page: <何も選択されていません>
+[2018.07.08-08.58.54:731][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022df28d96b8, Size=4, Default__TitleGameMode_C Function /Game/Bakaure/title/BluePrint/gamemode/TitleGameMode.TitleGameMode_C:ExecuteUbergraph_TitleGameMode
+[2018.07.08-08.58.54:736][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022df28d96b8, Size=4
+[2018.07.08-08.58.54:736][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022df28d96b8, Size=4, Default__TitleGameMode_C Function /Engine/Transient.REINST_TitleGameMode_C_1:ExecuteUbergraph_TitleGameMode
+[2018.07.08-08.58.54:741][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022df28d9760, Size=4, Default__TitleGameMode_C Function /Game/Bakaure/title/BluePrint/gamemode/TitleGameMode.TitleGameMode_C:ExecuteUbergraph_TitleGameMode
+[2018.07.08-08.58.54:779][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022df28d86f8, Size=4, Default__SelectWidget_C Function /Game/Bakaure/title/BluePrint/widget/SelectWidget.SelectWidget_C:ExecuteUbergraph_SelectWidget
+[2018.07.08-08.58.54:829][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022df28d86f8, Size=4
+[2018.07.08-08.58.54:829][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022df28d86f8, Size=4, Default__SelectWidget_C Function /Engine/Transient.REINST_SelectWidget_C_0:ExecuteUbergraph_SelectWidget
+[2018.07.08-08.58.54:843][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022df28d8538, Size=4, Default__SelectWidget_C Function /Game/Bakaure/title/BluePrint/widget/SelectWidget.SelectWidget_C:ExecuteUbergraph_SelectWidget
+[2018.07.08-08.58.54:851][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022dc4003d18, Size=24, Default__TitleWidget_C Function /Game/Bakaure/title/BluePrint/widget/TitleWidget.TitleWidget_C:ExecuteUbergraph_TitleWidget
+[2018.07.08-08.58.54:859][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022dc4003d18, Size=24
+[2018.07.08-08.58.54:859][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022dc4003d18, Size=24, Default__TitleWidget_C Function /Engine/Transient.REINST_TitleWidget_C_1:ExecuteUbergraph_TitleWidget
+[2018.07.08-08.58.54:863][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022dc40039e8, Size=24, Default__TitleWidget_C Function /Game/Bakaure/title/BluePrint/widget/TitleWidget.TitleWidget_C:ExecuteUbergraph_TitleWidget
+[2018.07.08-08.58.54:868][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022dc4003a78, Size=24, Default__Title_C Function /Game/Bakaure/title/Level/Title.Title_C:ExecuteUbergraph_Title
+[2018.07.08-08.58.54:874][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022dc4003a78, Size=24
+[2018.07.08-08.58.54:874][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022dc4003a78, Size=24, Default__Title_C Function /Engine/Transient.REINST_Title_C_5:ExecuteUbergraph_Title
+[2018.07.08-08.58.54:877][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022dc40034f0, Size=24, Default__Title_C Function /Game/Bakaure/title/Level/Title.Title_C:ExecuteUbergraph_Title
+[2018.07.08-08.58.54:979][  0]LogTexture: Display: Building textures: TitleName (BGRA8, 486X169)
+[2018.07.08-08.58.54:980][  0]LogTexture: Display: Building textures: SelectMenueBackGround (BGRA8, 1035X341)
+[2018.07.08-08.58.54:980][  0]LogTexture: Display: Building textures: GameStartLogo (BGRA8, 234X174)
+[2018.07.08-08.58.54:980][  0]LogTexture: Display: Building textures: GamePlayButton_2 (BGRA8, 679X681)
+[2018.07.08-08.58.54:980][  0]LogTexture: Display: Building textures: GamePlayButton_1 (BGRA8, 679X681)
+[2018.07.08-08.58.54:980][  0]LogTexture: Display: Building textures: TitleImage (BGRA8, 500X354)
+[2018.07.08-08.58.54:981][  0]LogAIModule: Creating AISystem for world Title
+[2018.07.08-08.58.54:988][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.08-08.58.55:000][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022df28d96b8, Size=4
+[2018.07.08-08.58.55:000][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022df28d86f8, Size=4
+[2018.07.08-08.58.55:000][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022dc4003d18, Size=24
+[2018.07.08-08.58.55:000][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022dc4003a78, Size=24
+[2018.07.08-08.58.55:001][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.08-08.58.55:060][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 58.62ミリ秒かかりました。
+[2018.07.08-08.58.55:060][  0]LogFileHelpers: Loading map 'Title' took 0.359
+[2018.07.08-08.58.55:311][  0]LogCollectionManager: Loaded 0 collections in 0.002178 seconds
+[2018.07.08-08.58.55:457][  0]LogFileCache: Scanning file cache for directory 'D:/MunakataToshizo/BakaureGodGame/Saved/Collections/' took 0.01s
+[2018.07.08-08.58.55:457][  0]LogFileCache: Scanning file cache for directory 'D:/MunakataToshizo/BakaureGodGame/Content/Developers/gityo/Collections/' took 0.01s
+[2018.07.08-08.58.55:457][  0]LogFileCache: Scanning file cache for directory 'D:/MunakataToshizo/BakaureGodGame/Content/Collections/' took 0.01s
+[2018.07.08-08.58.55:457][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.08-08.58.55:476][  0]LogContentBrowser: Native class hierarchy populated in 0.0164 seconds. Added 2452 classes and 558 folders.
+[2018.07.08-08.58.55:492][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.07.08-08.58.55:803][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.08-08.58.55:812][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.08-08.58.55:892][  0]LogSlate: Took 0.008319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.08-08.58.55:901][  0]LogSlate: Took 0.007764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2018.07.08-08.58.55:909][  0]LogSlate: Took 0.007331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2018.07.08-08.58.55:913][  0]LogSlate: Took 0.003673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.08-08.58.55:922][  0]LogSlate: Took 0.003247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.08-08.58.55:986][  0]LogRenderer: Reallocating scene render targets to support 1112x476 Format 10 NumSamples 1 (Frame:1).
+[2018.07.08-08.58.56:021][  0]LogSlate: Took 0.003252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.08-08.58.56:089][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.08-08.58.56:089][  0]LogLoad: (Engine Initialization) Total time: 27.38 seconds
+[2018.07.08-08.58.56:089][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.08-08.58.56:102][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.07.08-08.58.56:348][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.08-08.58.56:495][  1]LogAssetRegistry: Asset discovery search completed in 14.4789 seconds
+[2018.07.08-08.58.56:497][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.08-08.58.56:497][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2018.07.08-09.04.42:584][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.08-09.04.45:315][396]LogSlate: Took 0.000598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.08-09.04.45:321][396]LogSlate: Took 0.005308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2018.07.08-09.04.46:109][396]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022d9818ede0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.08-09.04.46:123][396]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022d9818ede0, Size=72
+[2018.07.08-09.04.46:123][396]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022dd3c89f80, Size=72, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.08-09.04.46:131][396]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022d99416430, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.08-09.04.46:202][396]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022d9b8a6200, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.08-09.04.46:207][396]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022d9b8a6200, Size=296
+[2018.07.08-09.04.46:207][396]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022d9b8a6200, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_10:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.08-09.04.46:212][396]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022d9b8a4400, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.08-09.04.46:460][396]LogTexture: Display: Building textures: T_ML_Aluminum01 (AutoDXT, 512X512)
+[2018.07.08-09.04.46:460][396]LogTexture: Display: Building textures: T_UE4_Mannequin_Mobile_M (AutoDXT, 1024X1024)
+[2018.07.08-09.04.46:622][396]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2018.07.08-09.04.46:622][396]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2018.07.08-09.04.46:622][396]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (AutoDXT, 512X512)
+[2018.07.08-09.04.46:622][396]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2018.07.08-09.04.46:623][396]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.08-09.04.46:642][396]LogTexture: Display: Building textures: T_UE4_Mannequin_Mobile_N (BC5, 1024X1024)
+[2018.07.08-09.04.46:642][396]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2018.07.08-09.04.46:642][396]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.08-09.04.46:688][396]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.07.08-09.04.46:802][396]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.07.08-09.04.46:802][396]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.07.08-09.04.46:802][396]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.07.08-09.04.46:907][396]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2018.07.08-09.04.46:918][396]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.07.08-09.04.46:922][396]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.07.08-09.04.46:977][396]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2018.07.08-09.04.46:977][396]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.08-09.04.46:992][396]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2018.07.08-09.04.46:992][396]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.08-09.04.47:010][396]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2018.07.08-09.04.47:010][396]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.08-09.04.47:082][396]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.07.08-09.04.47:112][396]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2018.07.08-09.04.47:112][396]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.07.08-09.04.47:114][396]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.08-09.04.47:143][396]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022dd3c89f80, Size=72
+[2018.07.08-09.04.47:143][396]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022d9b8a6200, Size=296
+[2018.07.08-09.04.47:146][396]Cmd: MAP LOAD FILE="D:/MunakataToshizo/BakaureGodGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.08-09.04.47:146][396]LightingResults: New page: ライティングのビルド
+[2018.07.08-09.04.47:147][396]LoadErrors: New page: マップをロード中: ThirdPersonExampleMap.umap
+[2018.07.08-09.04.47:148][396]MapCheck: New page: マップをチェック
+[2018.07.08-09.04.47:148][396]LightingResults: New page: <何も選択されていません>
+[2018.07.08-09.04.47:160][396]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022dc40034f0, Size=24
+[2018.07.08-09.04.47:167][396]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.08-09.04.47:183][396]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.08-09.04.47:368][396]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 184.223ミリ秒かかりました。
+[2018.07.08-09.04.47:369][396]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.224
+[2018.07.08-09.04.48:455][399]LogShaderCompilers: Display: Shaders left to compile 257
+[2018.07.08-09.04.49:060][399]LogShaderCompilers: Display: Shaders left to compile 247
+[2018.07.08-09.04.49:116][399]LogShaderCompilers: Display: Shaders left to compile 237
+[2018.07.08-09.04.49:440][399]LogShaderCompilers: Display: Shaders left to compile 227
+[2018.07.08-09.04.50:001][399]LogShaderCompilers: Display: Shaders left to compile 217
+[2018.07.08-09.04.50:268][404]LogShaderCompilers: Display: Shaders left to compile 207
+[2018.07.08-09.04.51:286][408]LogShaderCompilers: Display: Shaders left to compile 197
+[2018.07.08-09.04.51:445][411]LogShaderCompilers: Display: Shaders left to compile 187
+[2018.07.08-09.04.51:673][412]LogShaderCompilers: Display: Shaders left to compile 177
+[2018.07.08-09.04.52:536][414]LogShaderCompilers: Display: Shaders left to compile 167
+[2018.07.08-09.04.53:308][416]LogShaderCompilers: Display: Shaders left to compile 157
+[2018.07.08-09.04.53:373][424]LogShaderCompilers: Display: Shaders left to compile 147
+[2018.07.08-09.04.53:682][426]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.07.08-09.04.54:532][432]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.07.08-09.04.55:057][435]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.07.08-09.04.55:512][444]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.07.08-09.04.55:623][445]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.07.08-09.04.56:269][447]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.07.08-09.04.56:550][447]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.07.08-09.04.57:429][447]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.07.08-09.04.57:707][447]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.07.08-09.04.57:968][447]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.07.08-09.04.58:138][447]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_2
+[2018.07.08-09.04.58:997][449]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.07.08-09.04.59:582][452]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.07.08-09.04.59:872][459]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.07.08-09.05.00:146][465]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.07.08-09.14.45:178][489]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.011
+[2018.07.08-09.24.45:051][432]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.011
+[2018.07.08-09.34.44:920][339]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.010
+[2018.07.08-09.44.44:801][201]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.010
+[2018.07.08-09.54.44:672][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.010
+[2018.07.08-10.04.44:547][814]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.010
+[2018.07.08-10.14.44:421][569]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.010
+[2018.07.08-10.24.44:376][282]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.010
+[2018.07.08-10.34.44:249][957]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.011
+[2018.07.08-10.44.44:133][586]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.011
+[2018.07.08-10.54.44:011][187]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.011
+[2018.07.08-11.04.43:887][735]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.010
+[2018.07.08-11.14.43:757][229]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.010
+[2018.07.08-11.24.43:631][653]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.010
+[2018.07.08-11.34.43:442][258]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.011
+[2018.07.08-11.44.43:327][532]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.011
+[2018.07.08-11.47.26:140][439]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.08-11.47.30:414][903]LogSavePackage: Save=109.59ms
+[2018.07.08-11.47.30:414][903]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/ThirdPersonExampleMap_2_BuiltDat46458AE04C99A8080C6319B90F208524.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_2_BuiltData.uasset'
+[2018.07.08-11.47.30:415][903]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_2_BuiltData.uasset
+[2018.07.08-11.47.35:447][149]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.08-11.47.51:525][ 14]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.08-11.47.53:688][257]LogSavePackage: Save=83.24ms
+[2018.07.08-11.47.53:688][257]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/ThirdPersonExampleMapEDA9749F438A43BA5500E190735F819F.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.08-11.47.53:690][257]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.07.08-11.47.53:814][257]LogSavePackage: Save=109.76ms
+[2018.07.08-11.47.53:814][257]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/ThirdPersonExampleMap_BuiltDataD00818C94BBB461EEE5363ACF747637F.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.07.08-11.47.53:815][257]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.07.08-11.47.57:382][517]LogSlate: Window 'コンテンツを保存' being destroyed
+[2018.07.08-11.47.57:560][517]LogSavePackage: Save=81.95ms
+[2018.07.08-11.47.57:560][517]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/ThirdPersonExampleMap50549FDB4B6CDEDC039D8FB30E85CCD4.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/ThirdPersonExampleMap.umap'
+[2018.07.08-11.47.57:561][517]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/ThirdPersonExampleMap.umap
+[2018.07.08-11.47.57:564][517]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.175
+[2018.07.08-11.47.57:749][517]Cmd: MAP LOAD FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.08-11.47.57:749][517]LightingResults: New page: ライティングのビルド
+[2018.07.08-11.47.57:751][517]LoadErrors: New page: マップをロード中: ThirdPersonExampleMap.umap
+[2018.07.08-11.47.57:754][517]MapCheck: New page: マップをチェック
+[2018.07.08-11.47.57:754][517]LightingResults: New page: <何も選択されていません>
+[2018.07.08-11.47.57:778][517]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.08-11.47.57:796][517]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.08-11.47.57:865][517]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 68.901ミリ秒かかりました。
+[2018.07.08-11.47.57:866][517]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.118
+[2018.07.08-11.48.27:045][937]LogMetaData: Removing '/Game/Bakaure/Battle/maps/Battle_map.SKEL_Battle_map_C' ref from Metadata '/Game/Bakaure/Battle/maps/ThirdPersonExampleMap.PackageMetaData'
+[2018.07.08-11.48.27:045][937]LogMetaData: Removing '/Game/Bakaure/Battle/maps/Battle_map.Battle_map_C' ref from Metadata '/Game/Bakaure/Battle/maps/ThirdPersonExampleMap.PackageMetaData'
+[2018.07.08-11.48.27:141][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/maps/Battle_map" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.08-11.48.27:341][937]LogSavePackage: Save=188.24ms
+[2018.07.08-11.48.27:341][937]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Battle_map0B84180D40FA674F89649398D979CCC0.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map.umap'
+[2018.07.08-11.48.27:343][937]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map.umap
+[2018.07.08-11.48.27:364][937]LogFileHelpers: Saving map 'Battle_map' took 0.296
+[2018.07.08-11.58.27:361][606]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bakaure/Battle/maps/Battle_map' took 0.017
+[2018.07.08-11.58.28:014][606]LogExec: Warning: Missing filename
+[2018.07.08-11.58.28:015][606]LogFileHelpers: Auto-saving content packages took 0.653
+[2018.07.08-12.26.09:890][762]LogSlate: Window 'コンテンツを保存' being destroyed
+[2018.07.08-12.26.09:974][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakaure/Battle/maps/Battle_map" FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.08-12.26.10:864][762]LogSavePackage: Save=870.44ms
+[2018.07.08-12.26.10:864][762]LogSavePackage: Moving 'D:/MunakataToshizo/BakaureGodGame/Saved/Battle_map98E1637341F9AB9DEED43E9E1FFCB327.tmp' to 'D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map.umap'
+[2018.07.08-12.26.10:868][762]LogSavePackage: Display: Finished SavePackage D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map.umap
+[2018.07.08-12.26.10:872][762]LogFileHelpers: Saving map 'Battle_map' took 0.976
+[2018.07.08-12.26.10:876][762]Cmd: MAP LOAD FILE="D:/MunakataToshizo/BakaureGodGame/Content/Bakaure/Battle/maps/Battle_map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.08-12.26.10:876][762]LightingResults: New page: ライティングのビルド
+[2018.07.08-12.26.10:877][762]LoadErrors: New page: マップをロード中: Battle_map.umap
+[2018.07.08-12.26.10:877][762]MapCheck: New page: マップをチェック
+[2018.07.08-12.26.10:877][762]LightingResults: New page: <何も選択されていません>
+[2018.07.08-12.26.10:976][762]LogAIModule: Creating AISystem for world Battle_map
+[2018.07.08-12.26.10:984][762]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.08-12.26.11:004][762]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.08-12.26.11:076][762]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 71.478ミリ秒かかりました。
+[2018.07.08-12.26.11:077][762]LogFileHelpers: Loading map 'Battle_map' took 0.201
